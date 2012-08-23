@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/495/trunk/main/SS/Formula
+END
+OperationEvaluatorFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/295/trunk/main/SS/Formula/OperationEvaluatorFactory.cs
+END
+WorkbookEvaluator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/316/trunk/main/SS/Formula/WorkbookEvaluator.cs
+END
+ParseNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/227/trunk/main/SS/Formula/ParseNode.cs
+END
+FormulaRenderingWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/258/trunk/main/SS/Formula/FormulaRenderingWorkbook.cs
+END
+CellEvaluationFrame.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/147/trunk/main/SS/Formula/CellEvaluationFrame.cs
+END
+EvaluationTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/227/trunk/main/SS/Formula/EvaluationTracker.cs
+END
+CellCacheEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/147/trunk/main/SS/Formula/CellCacheEntry.cs
+END
+EvaluationWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/258/trunk/main/SS/Formula/EvaluationWorkbook.cs
+END
+IEvaluationListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/258/trunk/main/SS/Formula/IEvaluationListener.cs
+END
+PlainCellCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/179/trunk/main/SS/Formula/PlainCellCache.cs
+END
+FormulaCellCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/316/trunk/main/SS/Formula/FormulaCellCache.cs
+END
+FormulaRenderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/258/trunk/main/SS/Formula/FormulaRenderer.cs
+END
+UserDefinedFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/147/trunk/main/SS/Formula/UserDefinedFunction.cs
+END
+FormulaParsingWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/299/trunk/main/SS/Formula/FormulaParsingWorkbook.cs
+END
+FormulaType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/main/SS/Formula/FormulaType.cs
+END
+EvaluationCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/258/trunk/main/SS/Formula/EvaluationCell.cs
+END
+WorkbookDependentFormula.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/258/trunk/main/SS/Formula/WorkbookDependentFormula.cs
+END
+FormulaCellCacheEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/147/trunk/main/SS/Formula/FormulaCellCacheEntry.cs
+END
+ExternSheetReferenceToken.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/258/trunk/main/SS/Formula/ExternSheetReferenceToken.cs
+END
+LazyAreaEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/147/trunk/main/SS/Formula/LazyAreaEval.cs
+END
+IStabilityClassifier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/323/trunk/main/SS/Formula/IStabilityClassifier.cs
+END
+FormulaParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/314/trunk/main/SS/Formula/FormulaParser.cs
+END
+LazyRefEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/147/trunk/main/SS/Formula/LazyRefEval.cs
+END
+FormulaCellCacheEntrySet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/main/SS/Formula/FormulaCellCacheEntrySet.cs
+END
+SheetRefEvaluator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/258/trunk/main/SS/Formula/SheetRefEvaluator.cs
+END
+EvaluationCache.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/258/trunk/main/SS/Formula/EvaluationCache.cs
+END
+SharedFormula.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/278/trunk/main/SS/Formula/SharedFormula.cs
+END
+SheetNameFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/314/trunk/main/SS/Formula/SheetNameFormatter.cs
+END
+OperationEvaluationContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/313/trunk/main/SS/Formula/OperationEvaluationContext.cs
+END
+EvaluationSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/258/trunk/main/SS/Formula/EvaluationSheet.cs
+END
+OperandClassTransformer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/227/trunk/main/SS/Formula/OperandClassTransformer.cs
+END
+Formula.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/260/trunk/main/SS/Formula/Formula.cs
+END
+CollaboratingWorkbooksEnvironment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/431/trunk/main/SS/Formula/CollaboratingWorkbooksEnvironment.cs
+END
+PlainValueCellCacheEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/147/trunk/main/SS/Formula/PlainValueCellCacheEntry.cs
+END
+EvaluationName.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/147/trunk/main/SS/Formula/EvaluationName.cs
+END
+FormulaUsedBlankCellSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/main/SS/Formula/FormulaUsedBlankCellSet.cs
+END

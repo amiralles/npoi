@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model
+END
+FootnoteReferenceDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/61/trunk/scratchpad/HWPF/Model/FootnoteReferenceDescriptor.cs
+END
+OldSectionTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/OldSectionTable.cs
+END
+SectionTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/SectionTable.cs
+END
+UPX.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/UPX.cs
+END
+UnhandledDataStructure.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/UnhandledDataStructure.cs
+END
+FIBShortHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/FIBShortHandler.cs
+END
+Prm0.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/Prm0.cs
+END
+FontTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/FontTable.cs
+END
+SEPX.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/scratchpad/HWPF/Model/SEPX.cs
+END
+CachedPropertyNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/CachedPropertyNode.cs
+END
+BookmarksTables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/61/trunk/scratchpad/HWPF/Model/BookmarksTables.cs
+END
+CPSplitCalculator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/CPSplitCalculator.cs
+END
+CHPFormattedDiskPage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/CHPFormattedDiskPage.cs
+END
+SinglentonTextPiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/SinglentonTextPiece.cs
+END
+FieldsDocumentPart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/scratchpad/HWPF/Model/FieldsDocumentPart.cs
+END
+ParagraphHeight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/ParagraphHeight.cs
+END
+FieldsTables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/trunk/scratchpad/HWPF/Model/FieldsTables.cs
+END
+TextPieceTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/TextPieceTable.cs
+END
+PlexOfCps.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/PlexOfCps.cs
+END
+ListLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/ListLevel.cs
+END
+SectionDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/SectionDescriptor.cs
+END
+ListData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/ListData.cs
+END
+PicturesTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/PicturesTable.cs
+END
+PictureDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/66/trunk/scratchpad/HWPF/Model/PictureDescriptor.cs
+END
+CHPBinTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/Model/CHPBinTable.cs
+END
+FieldDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/Model/FieldDescriptor.cs
+END
+NotesTables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/61/trunk/scratchpad/HWPF/Model/NotesTables.cs
+END
+GenericPropertyNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/GenericPropertyNode.cs
+END
+PropertyNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/94/trunk/scratchpad/HWPF/Model/PropertyNode.cs
+END
+DocumentProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/DocumentProperties.cs
+END
+EscherRecordHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/EscherRecordHolder.cs
+END
+PAPX.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/Model/PAPX.cs
+END
+OldCHPBinTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/OldCHPBinTable.cs
+END
+BytePropertyNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/BytePropertyNode.cs
+END
+ComplexFileTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/ComplexFileTable.cs
+END
+PAPBinTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/Model/PAPBinTable.cs
+END
+PieceDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/PieceDescriptor.cs
+END
+ListFormatOverride.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/ListFormatOverride.cs
+END
+FSPA.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/FSPA.cs
+END
+SubdocumentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/scratchpad/HWPF/Model/SubdocumentType.cs
+END
+FSPATable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/FSPATable.cs
+END
+BaseObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/BaseObject.cs
+END
+CHPX.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/CHPX.cs
+END
+SttbfUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/61/trunk/scratchpad/HWPF/Model/SttbfUtils.cs
+END
+RevisionMarkAuthorTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/RevisionMarkAuthorTable.cs
+END
+SavedByTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/SavedByTable.cs
+END
+NoteType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/73/trunk/scratchpad/HWPF/Model/NoteType.cs
+END
+BookmarkFirstDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/trunk/scratchpad/HWPF/Model/BookmarkFirstDescriptor.cs
+END
+ListFormatOverrideLevel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/ListFormatOverrideLevel.cs
+END
+FIBLongHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/FIBLongHandler.cs
+END
+FSPADocumentPart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/FSPADocumentPart.cs
+END
+CharIndexTranslator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/CharIndexTranslator.cs
+END
+SavedByEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/SavedByEntry.cs
+END
+HWPFStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/HWPFStream.cs
+END
+OldPAPBinTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/OldPAPBinTable.cs
+END
+StyleSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/StyleSheet.cs
+END
+TextPiece.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/TextPiece.cs
+END
+ShapesTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/ShapesTable.cs
+END
+FormattedDiskPage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/FormattedDiskPage.cs
+END
+PAPFormattedDiskPage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/PAPFormattedDiskPage.cs
+END
+FileInformationBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/scratchpad/HWPF/Model/FileInformationBlock.cs
+END
+PlexOfField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/scratchpad/HWPF/Model/PlexOfField.cs
+END
+FIBFieldHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/FIBFieldHandler.cs
+END
+PropertyModifier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/PropertyModifier.cs
+END
+StyleDescription.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/StyleDescription.cs
+END
+ListTables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/ListTables.cs
+END
+Ffn.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/Model/Ffn.cs
+END

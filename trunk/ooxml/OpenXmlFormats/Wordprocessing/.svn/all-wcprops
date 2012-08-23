@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/524/trunk/ooxml/OpenXmlFormats/Wordprocessing
+END
+Picture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/503/trunk/ooxml/OpenXmlFormats/Wordprocessing/Picture.cs
+END
+Document.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/478/trunk/ooxml/OpenXmlFormats/Wordprocessing/Document.cs
+END
+Styles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Wordprocessing/Styles.cs
+END
+Numbering.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/485/trunk/ooxml/OpenXmlFormats/Wordprocessing/Numbering.cs
+END
+Table.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/485/trunk/ooxml/OpenXmlFormats/Wordprocessing/Table.cs
+END
+HdrFtr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/457/trunk/ooxml/OpenXmlFormats/Wordprocessing/HdrFtr.cs
+END
+Frame.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Wordprocessing/Frame.cs
+END
+Sdt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Wordprocessing/Sdt.cs
+END
+CustomXml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Wordprocessing/CustomXml.cs
+END
+PageSetup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Wordprocessing/PageSetup.cs
+END
+Markup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Wordprocessing/Markup.cs
+END
+BaseTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/472/trunk/ooxml/OpenXmlFormats/Wordprocessing/BaseTypes.cs
+END
+wml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/503/trunk/ooxml/OpenXmlFormats/Wordprocessing/wml.cs
+END
+Settings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/497/trunk/ooxml/OpenXmlFormats/Wordprocessing/Settings.cs
+END
+WordPartDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/524/trunk/ooxml/OpenXmlFormats/Wordprocessing/WordPartDocument.cs
+END
+Run.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/479/trunk/ooxml/OpenXmlFormats/Wordprocessing/Run.cs
+END
+RangePermission.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Wordprocessing/RangePermission.cs
+END
+Paragraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/485/trunk/ooxml/OpenXmlFormats/Wordprocessing/Paragraph.cs
+END
+Tab.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Wordprocessing/Tab.cs
+END
+Font.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/485/trunk/ooxml/OpenXmlFormats/Wordprocessing/Font.cs
+END
+FormField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Wordprocessing/FormField.cs
+END

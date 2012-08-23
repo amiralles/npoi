@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/526/trunk/tools/POIFS%20Browser
+END
+POIFSBrowser.sln
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/POIFSBrowser.sln
+END
+POIFSBrowser.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/358/trunk/tools/POIFS%20Browser/POIFSBrowser.csproj
+END
+POIFSBrowser.csproj.vspscc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/POIFSBrowser.csproj.vspscc
+END
+MainForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/MainForm.resx
+END
+AbstractTreeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/AbstractTreeNode.cs
+END
+AboutDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/AboutDialog.Designer.cs
+END
+AboutDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/AboutDialog.cs
+END
+DirectoryTreeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/399/trunk/tools/POIFS%20Browser/DirectoryTreeNode.cs
+END
+PropertyListViewItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/PropertyListViewItem.cs
+END
+EscherRecordTreeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/358/trunk/tools/POIFS%20Browser/EscherRecordTreeNode.cs
+END
+EscherPropertyTreeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/358/trunk/tools/POIFS%20Browser/EscherPropertyTreeNode.cs
+END
+DocumentTreeNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/406/trunk/tools/POIFS%20Browser/DocumentTreeNode.cs
+END
+AboutDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/AboutDialog.resx
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/Program.cs
+END
+MainForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/tools/POIFS%20Browser/MainForm.Designer.cs
+END
+MainForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/406/trunk/tools/POIFS%20Browser/MainForm.cs
+END
+MockRecordVisitor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/358/trunk/tools/POIFS%20Browser/MockRecordVisitor.cs
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/339/trunk/scratchpad/HSLF/Record
+END
+PositionDependentRecordAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/PositionDependentRecordAtom.cs
+END
+AnimationInfoAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/AnimationInfoAtom.cs
+END
+TextBytesAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/TextBytesAtom.cs
+END
+PersistPtrHolder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/PersistPtrHolder.cs
+END
+TextHeaderAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/TextHeaderAtom.cs
+END
+Record.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Record/Record.cs
+END
+DummyPositionSensitiveRecordWithChildren.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/DummyPositionSensitiveRecordWithChildren.cs
+END
+TextRulerAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/TextRulerAtom.cs
+END
+RecordContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/RecordContainer.cs
+END
+SoundData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/SoundData.cs
+END
+ColorSchemeAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/ColorSchemeAtom.cs
+END
+Comment2000Atom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/Comment2000Atom.cs
+END
+TxInteractiveInfoAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/TxInteractiveInfoAtom.cs
+END
+TextCharsAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/TextCharsAtom.cs
+END
+StyleTextPropAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Record/StyleTextPropAtom.cs
+END
+PersistRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/PersistRecord.cs
+END
+PositionDependentRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/PositionDependentRecord.cs
+END
+AnimationInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/AnimationInfo.cs
+END
+TextSpecInfoAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/TextSpecInfoAtom.cs
+END
+PositionDependentRecordContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/PositionDependentRecordContainer.cs
+END
+RecordAtom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/RecordAtom.cs
+END
+UnknownRecordPlaceholder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/UnknownRecordPlaceholder.cs
+END
+RecordTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/339/trunk/scratchpad/HSLF/Record/RecordTypes.cs
+END
+Comment2000.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/Comment2000.cs
+END
+ParentAwareRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/ParentAwareRecord.cs
+END
+CString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/339/trunk/scratchpad/HSLF/Record/CString.cs
+END
+RoundTripHFPlaceholder12.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Record/RoundTripHFPlaceholder12.cs
+END

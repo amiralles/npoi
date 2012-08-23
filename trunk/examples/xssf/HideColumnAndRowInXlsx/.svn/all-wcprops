@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/486/trunk/examples/xssf/HideColumnAndRowInXlsx
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/483/trunk/examples/xssf/HideColumnAndRowInXlsx/app.config
+END
+HideColumnAndRowInXlsx.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/483/trunk/examples/xssf/HideColumnAndRowInXlsx/HideColumnAndRowInXlsx.csproj
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/486/trunk/examples/xssf/HideColumnAndRowInXlsx/Program.cs
+END

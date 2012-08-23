@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/296/trunk/main/HSSF/Record/Cont
+END
+UnknownLengthRecordOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/260/trunk/main/HSSF/Record/Cont/UnknownLengthRecordOutput.cs
+END
+ContinuableRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/260/trunk/main/HSSF/Record/Cont/ContinuableRecord.cs
+END
+ContinuableRecordInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/296/trunk/main/HSSF/Record/Cont/ContinuableRecordInput.cs
+END
+ContinuableRecordOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/295/trunk/main/HSSF/Record/Cont/ContinuableRecordOutput.cs
+END

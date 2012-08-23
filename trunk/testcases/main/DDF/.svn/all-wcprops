@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/494/trunk/testcases/main/DDF
+END
+TestEscherContainerRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherContainerRecord.cs
+END
+TestEscherSpRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherSpRecord.cs
+END
+TestEscherProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherProperty.cs
+END
+TestEscherBlipRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherBlipRecord.cs
+END
+TestEscherDgRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherDgRecord.cs
+END
+TestUnknownEscherRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestUnknownEscherRecord.cs
+END
+TestEscherBlipWMFRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherBlipWMFRecord.cs
+END
+TestEscherDggRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherDggRecord.cs
+END
+TestEscherBoolProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherBoolProperty.cs
+END
+TestEscherSplitMenuColorsRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherSplitMenuColorsRecord.cs
+END
+TestEscherOptRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherOptRecord.cs
+END
+TestEscherClientDataRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherClientDataRecord.cs
+END
+TestEscherBSERecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherBSERecord.cs
+END
+TestEscherClientAnchorRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherClientAnchorRecord.cs
+END
+TestEscherSpgrRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherSpgrRecord.cs
+END
+TestEscherPropertyFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherPropertyFactory.cs
+END
+TestEscherChildAnchorRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/DDF/TestEscherChildAnchorRecord.cs
+END

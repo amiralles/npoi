@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/503/trunk/ooxml/XWPF/Model
+END
+XWPFHeaderFooterPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/503/trunk/ooxml/XWPF/Model/XWPFHeaderFooterPolicy.cs
+END
+XWPFHyperlinkDecorator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/427/trunk/ooxml/XWPF/Model/XWPFHyperlinkDecorator.cs
+END
+XWPFParagraphDecorator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Model/XWPFParagraphDecorator.cs
+END
+XWPFCommentsDecorator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Model/XWPFCommentsDecorator.cs
+END
+XMLParagraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Model/XMLParagraph.cs
+END

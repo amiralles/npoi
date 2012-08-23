@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/UserModel/Helpers
+END
+TestColumnHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/UserModel/Helpers/TestColumnHelper.cs
+END
+TestHeaderFooterHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/UserModel/Helpers/TestHeaderFooterHelper.cs
+END

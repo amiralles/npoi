@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/511/trunk/testcases/main/HSSF/Model
+END
+TestWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestWorkbook.cs
+END
+TestSheetAdditional.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestSheetAdditional.cs
+END
+TestOperandClassTransformer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestOperandClassTransformer.cs
+END
+TestFormulaParserIf.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestFormulaParserIf.cs
+END
+TestFormulaParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestFormulaParser.cs
+END
+TestShapes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestShapes.cs
+END
+TestLinkTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestLinkTable.cs
+END
+TestDrawingManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestDrawingManager.cs
+END
+TestRowBlocksReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestRowBlocksReader.cs
+END
+TestRVA.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestRVA.cs
+END
+TestDrawingManager2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestDrawingManager2.cs
+END
+TestSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/511/trunk/testcases/main/HSSF/Model/TestSheet.cs
+END
+TestFormulaParserEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Model/TestFormulaParserEval.cs
+END

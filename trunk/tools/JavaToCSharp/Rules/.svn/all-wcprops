@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules
+END
+CapitalizeRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules/CapitalizeRule.cs
+END
+foreachRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules/foreachRule.cs
+END
+EquivalentExceptionRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules/EquivalentExceptionRule.cs
+END
+RemoveGetRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules/RemoveGetRule.cs
+END
+EquivalentRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules/EquivalentRule.cs
+END
+getIndexerRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules/getIndexerRule.cs
+END
+skiplineRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules/skiplineRule.cs
+END
+OtherRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules/OtherRule.cs
+END
+DeleteRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Rules/DeleteRule.cs
+END

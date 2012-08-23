@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/334/trunk/main/SS/UserModel/Charts
+END
+ManualLayout.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/ManualLayout.cs
+END
+ChartAxisFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/ChartAxisFactory.cs
+END
+ScatterChartSerie.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/ScatterChartSerie.cs
+END
+AxisOrientation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/AxisOrientation.cs
+END
+ChartLegend.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/ChartLegend.cs
+END
+ScatterChartData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/ScatterChartData.cs
+END
+LayoutMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/LayoutMode.cs
+END
+ChartDataFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/ChartDataFactory.cs
+END
+LegendPosition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/LegendPosition.cs
+END
+LayoutTarget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/LayoutTarget.cs
+END
+ChartAxis.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/ChartAxis.cs
+END
+AxisCrossBetween.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/AxisCrossBetween.cs
+END
+AxisPosition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/AxisPosition.cs
+END
+ChartData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/334/trunk/main/SS/UserModel/Charts/ChartData.cs
+END
+ManuallyPositionable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/ManuallyPositionable.cs
+END
+ValueAxis.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/ValueAxis.cs
+END
+AxisCrosses.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/249/trunk/main/SS/UserModel/Charts/AxisCrosses.cs
+END

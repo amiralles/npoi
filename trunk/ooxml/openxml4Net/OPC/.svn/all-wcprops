@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/455/trunk/ooxml/openxml4Net/OPC
+END
+PackageRelationship.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/300/trunk/ooxml/openxml4Net/OPC/PackageRelationship.cs
+END
+PackageAccess.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/PackageAccess.cs
+END
+ZipPackage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/441/trunk/ooxml/openxml4Net/OPC/ZipPackage.cs
+END
+PackagePart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/169/trunk/ooxml/openxml4Net/OPC/PackagePart.cs
+END
+RelationshipSource.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/RelationshipSource.cs
+END
+EncryptionOption.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/EncryptionOption.cs
+END
+PackagePartName.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/440/trunk/ooxml/openxml4Net/OPC/PackagePartName.cs
+END
+PackageRelationshipCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/396/trunk/ooxml/openxml4Net/OPC/PackageRelationshipCollection.cs
+END
+CompressionOption.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113/trunk/ooxml/openxml4Net/OPC/CompressionOption.cs
+END
+Package.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/169/trunk/ooxml/openxml4Net/OPC/Package.cs
+END
+PackageNamespaces.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/PackageNamespaces.cs
+END
+StreamHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/59/trunk/ooxml/openxml4Net/OPC/StreamHelper.cs
+END
+TargetMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/ooxml/openxml4Net/OPC/TargetMode.cs
+END
+OPCPackage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/455/trunk/ooxml/openxml4Net/OPC/OPCPackage.cs
+END
+PackagePartCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/300/trunk/ooxml/openxml4Net/OPC/PackagePartCollection.cs
+END
+ContentTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/ContentTypes.cs
+END
+PackageRelationshipTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/ooxml/openxml4Net/OPC/PackageRelationshipTypes.cs
+END
+PackagingUriHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/441/trunk/ooxml/openxml4Net/OPC/PackagingUriHelper.cs
+END
+ZipPackagePart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/38/trunk/ooxml/openxml4Net/OPC/ZipPackagePart.cs
+END
+Configuration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/Configuration.cs
+END
+PackageProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/PackageProperties.cs
+END
+CertificateEmbeddingOption.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/CertificateEmbeddingOption.cs
+END

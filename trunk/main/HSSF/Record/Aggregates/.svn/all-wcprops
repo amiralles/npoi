@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/360/trunk/main/HSSF/Record/Aggregates
+END
+FormulaRecordAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/251/trunk/main/HSSF/Record/Aggregates/FormulaRecordAggregate.cs
+END
+CFRecordsAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/174/trunk/main/HSSF/Record/Aggregates/CFRecordsAggregate.cs
+END
+RecordAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/295/trunk/main/HSSF/Record/Aggregates/RecordAggregate.cs
+END
+DataValidityTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/174/trunk/main/HSSF/Record/Aggregates/DataValidityTable.cs
+END
+CustomViewSettingsRecordAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/174/trunk/main/HSSF/Record/Aggregates/CustomViewSettingsRecordAggregate.cs
+END
+ChartSubstreamRecordAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/174/trunk/main/HSSF/Record/Aggregates/ChartSubstreamRecordAggregate.cs
+END
+WorksheetProtectionBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/360/trunk/main/HSSF/Record/Aggregates/WorksheetProtectionBlock.cs
+END
+SharedValueManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/227/trunk/main/HSSF/Record/Aggregates/SharedValueManager.cs
+END
+MergedCellsTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/174/trunk/main/HSSF/Record/Aggregates/MergedCellsTable.cs
+END
+RowRecordsAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/329/trunk/main/HSSF/Record/Aggregates/RowRecordsAggregate.cs
+END
+ColumnInfoRecordsAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/313/trunk/main/HSSF/Record/Aggregates/ColumnInfoRecordsAggregate.cs
+END
+ValueRecordsAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/227/trunk/main/HSSF/Record/Aggregates/ValueRecordsAggregate.cs
+END
+PLSAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/174/trunk/main/HSSF/Record/Aggregates/PLSAggregate.cs
+END
+ConditionalFormattingTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/174/trunk/main/HSSF/Record/Aggregates/ConditionalFormattingTable.cs
+END
+PageSettingsBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/174/trunk/main/HSSF/Record/Aggregates/PageSettingsBlock.cs
+END

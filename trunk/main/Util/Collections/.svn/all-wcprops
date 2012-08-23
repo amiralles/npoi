@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/322/trunk/main/Util/Collections
+END
+Properties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/main/Util/Collections/Properties.cs
+END
+EmptyEnumerable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/322/trunk/main/Util/Collections/EmptyEnumerable.cs
+END
+HashSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/253/trunk/main/Util/Collections/HashSet.cs
+END
+StringTokenizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/main/Util/Collections/StringTokenizer.cs
+END
+ISet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/253/trunk/main/Util/Collections/ISet.cs
+END

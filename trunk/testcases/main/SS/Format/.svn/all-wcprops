@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/494/trunk/testcases/main/SS/Format
+END
+TestCellFormatCondition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/SS/Format/TestCellFormatCondition.cs
+END
+CellFormatTestBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/SS/Format/CellFormatTestBase.cs
+END
+TestCellFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/494/trunk/testcases/main/SS/Format/TestCellFormat.cs
+END

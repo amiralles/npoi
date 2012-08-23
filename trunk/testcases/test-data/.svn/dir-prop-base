@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 72
+ddf
+diagram
+document
+hmef
+hpsf
+hsmf
+openxml4j
+poifs
+publisher
+slideshow
+
+END

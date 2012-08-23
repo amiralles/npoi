@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/314/trunk/main/SS/Formula/Functions
+END
+Fact.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Fact.cs
+END
+Degrees.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Degrees.cs
+END
+Fixed1ArgFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Fixed1ArgFunction.cs
+END
+Today.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Today.cs
+END
+Hlookup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Hlookup.cs
+END
+Fixed3ArgFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Fixed3ArgFunction.cs
+END
+Address.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/195/trunk/main/SS/Formula/Functions/Address.cs
+END
+Days360.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Days360.cs
+END
+LookupUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/314/trunk/main/SS/Formula/Functions/LookupUtils.cs
+END
+Rows.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Rows.cs
+END
+Pmt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Pmt.cs
+END
+Countblank.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Countblank.cs
+END
+Sign.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Sign.cs
+END
+Function1Arg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Function1Arg.cs
+END
+Var3or4ArgFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Var3or4ArgFunction.cs
+END
+Indirect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Indirect.cs
+END
+Function3Arg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Function3Arg.cs
+END
+Npv.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/204/trunk/main/SS/Formula/Functions/Npv.cs
+END
+Sumx2my2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Sumx2my2.cs
+END
+Combin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Combin.cs
+END
+Lookup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Lookup.cs
+END
+Ceiling.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Ceiling.cs
+END
+Dollar.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Dollar.cs
+END
+Mod.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Mod.cs
+END
+Columns.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Columns.cs
+END
+Sumif.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/201/trunk/main/SS/Formula/Functions/Sumif.cs
+END
+CalendarFieldFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/205/trunk/main/SS/Formula/Functions/CalendarFieldFunction.cs
+END
+DateFunc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/DateFunc.cs
+END
+NotImplementedFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/NotImplementedFunction.cs
+END
+Int.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Int.cs
+END
+Exp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Exp.cs
+END
+MultiOperandNumericFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/202/trunk/main/SS/Formula/Functions/MultiOperandNumericFunction.cs
+END
+Even.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Even.cs
+END
+Var2or3ArgFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Var2or3ArgFunction.cs
+END
+T.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/T.cs
+END
+Nper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Nper.cs
+END
+Countif.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/314/trunk/main/SS/Formula/Functions/Countif.cs
+END
+Index.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Index.cs
+END
+CountUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/202/trunk/main/SS/Formula/Functions/CountUtils.cs
+END
+TimeFunc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/196/trunk/main/SS/Formula/Functions/TimeFunc.cs
+END
+Value.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/313/trunk/main/SS/Formula/Functions/Value.cs
+END
+Fixed0ArgFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Fixed0ArgFunction.cs
+END
+Choose.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Choose.cs
+END
+Floor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Floor.cs
+END
+Fixed2ArgFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Fixed2ArgFunction.cs
+END
+Fixed4ArgFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Fixed4ArgFunction.cs
+END
+Sumxmy2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Sumxmy2.cs
+END
+FreeRefFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/FreeRefFunction.cs
+END
+Function.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Function.cs
+END
+StatsLib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/StatsLib.cs
+END
+XYNumericFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/185/trunk/main/SS/Formula/Functions/XYNumericFunction.cs
+END
+Counta.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/202/trunk/main/SS/Formula/Functions/Counta.cs
+END
+FinanceLib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/FinanceLib.cs
+END
+Power.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Power.cs
+END
+Var1or2ArgFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Var1or2ArgFunction.cs
+END
+Column.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Column.cs
+END
+Subtotal.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/201/trunk/main/SS/Formula/Functions/Subtotal.cs
+END
+If.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/If.cs
+END
+Vlookup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Vlookup.cs
+END
+Function0Arg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Function0Arg.cs
+END
+Function2Arg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Function2Arg.cs
+END
+Function4Arg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Function4Arg.cs
+END
+Odd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Odd.cs
+END
+FinanceFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/FinanceFunction.cs
+END
+Fv.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Fv.cs
+END
+Radians.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Radians.cs
+END
+MathX.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/MathX.cs
+END
+Mode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Mode.cs
+END
+Pv.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Pv.cs
+END
+Offset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Offset.cs
+END
+Count.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/202/trunk/main/SS/Formula/Functions/Count.cs
+END
+MinaMaxa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/201/trunk/main/SS/Formula/Functions/MinaMaxa.cs
+END
+Match.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Match.cs
+END
+Irr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Irr.cs
+END
+AggregateFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/203/trunk/main/SS/Formula/Functions/AggregateFunction.cs
+END
+Na.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Na.cs
+END
+Now.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/196/trunk/main/SS/Formula/Functions/Now.cs
+END
+Sumproduct.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Sumproduct.cs
+END
+Row.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Row.cs
+END
+Sumx2py2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Sumx2py2.cs
+END

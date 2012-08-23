@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/SPRM
+END
+SprmIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/scratchpad/HWPF/SPRM/SprmIterator.cs
+END
+CharacterSprmCompressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/41/trunk/scratchpad/HWPF/SPRM/CharacterSprmCompressor.cs
+END
+SprmBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/SPRM/SprmBuffer.cs
+END
+CharacterSprmUncompressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/SPRM/CharacterSprmUncompressor.cs
+END
+SprmUncompressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/SPRM/SprmUncompressor.cs
+END
+SprmUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/SPRM/SprmUtils.cs
+END
+SprmOperation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/SPRM/SprmOperation.cs
+END
+SectionSprmCompressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/SPRM/SectionSprmCompressor.cs
+END
+ParagraphSprmCompressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/scratchpad/HWPF/SPRM/ParagraphSprmCompressor.cs
+END
+TableSprmCompressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/SPRM/TableSprmCompressor.cs
+END
+SectionSprmUncompressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/scratchpad/HWPF/SPRM/SectionSprmUncompressor.cs
+END
+ParagraphSprmUncompressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/SPRM/ParagraphSprmUncompressor.cs
+END
+TableSprmUncompressor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/SPRM/TableSprmUncompressor.cs
+END

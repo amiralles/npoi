@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/498/trunk/main/Util
+END
+SystemOutLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/313/trunk/main/Util/SystemOutLogger.cs
+END
+LittleEndian.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/318/trunk/main/Util/LittleEndian.cs
+END
+ClassID.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/main/Util/ClassID.cs
+END
+POILogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/313/trunk/main/Util/POILogger.cs
+END
+IOUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/418/trunk/main/Util/IOUtils.cs
+END
+ULongField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/251/trunk/main/Util/ULongField.cs
+END
+LittleEndianByteArrayInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/260/trunk/main/Util/LittleEndianByteArrayInputStream.cs
+END
+LittleEndianByteArrayOutputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/313/trunk/main/Util/LittleEndianByteArrayOutputStream.cs
+END
+LittleEndianInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/260/trunk/main/Util/LittleEndianInput.cs
+END
+Character.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/main/Util/Character.cs
+END
+Arrays.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/309/trunk/main/Util/Arrays.cs
+END
+RuntimeException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/317/trunk/main/Util/RuntimeException.cs
+END
+FixedField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/main/Util/FixedField.cs
+END
+TempFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/260/trunk/main/Util/TempFile.cs
+END
+LittleEndianConsts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/424/trunk/main/Util/LittleEndianConsts.cs
+END
+LittleEndianOutputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/260/trunk/main/Util/LittleEndianOutputStream.cs
+END
+CommonsLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/257/trunk/main/Util/CommonsLogger.cs
+END
+CRC32.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/227/trunk/main/Util/CRC32.cs
+END
+PushbackStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/260/trunk/main/Util/PushbackStream.cs
+END
+BigInteger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/321/trunk/main/Util/BigInteger.cs
+END
+HexRead.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/431/trunk/main/Util/HexRead.cs
+END
+POILogFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/33/trunk/main/Util/POILogFactory.cs
+END
+BitField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/193/trunk/main/Util/BitField.cs
+END
+BlockingInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/429/trunk/main/Util/BlockingInputStream.cs
+END
+IntList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/309/trunk/main/Util/IntList.cs
+END
+LZWDecompresser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/317/trunk/main/Util/LZWDecompresser.cs
+END
+ShortList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/309/trunk/main/Util/ShortList.cs
+END
+Operator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/141/trunk/main/Util/Operator.cs
+END
+ByteBuffer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/347/trunk/main/Util/ByteBuffer.cs
+END
+LittleEndianOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/260/trunk/main/Util/LittleEndianOutput.cs
+END
+CloseIgnoringInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/257/trunk/main/Util/CloseIgnoringInputStream.cs
+END
+ByteArrayInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/405/trunk/main/Util/ByteArrayInputStream.cs
+END
+IntMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/498/trunk/main/Util/IntMapper.cs
+END
+DelayableLittleEndianOutput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/260/trunk/main/Util/DelayableLittleEndianOutput.cs
+END
+IntegerField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/313/trunk/main/Util/IntegerField.cs
+END
+LongField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/313/trunk/main/Util/LongField.cs
+END
+ShortField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/313/trunk/main/Util/ShortField.cs
+END
+StringUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/268/trunk/main/Util/StringUtil.cs
+END
+RecordFormatException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/317/trunk/main/Util/RecordFormatException.cs
+END
+ByteField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/313/trunk/main/Util/ByteField.cs
+END
+LittleEndianInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/260/trunk/main/Util/LittleEndianInputStream.cs
+END
+HexDump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/313/trunk/main/Util/HexDump.cs
+END
+NullLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/main/Util/NullLogger.cs
+END
+BitFieldFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/main/Util/BitFieldFactory.cs
+END

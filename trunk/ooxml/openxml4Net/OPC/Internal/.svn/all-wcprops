@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/441/trunk/ooxml/openxml4Net/OPC/Internal
+END
+MemoryPackagePart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/270/trunk/ooxml/openxml4Net/OPC/Internal/MemoryPackagePart.cs
+END
+ContentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/440/trunk/ooxml/openxml4Net/OPC/Internal/ContentType.cs
+END
+FileHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/103/trunk/ooxml/openxml4Net/OPC/Internal/FileHelper.cs
+END
+PackagePropertiesPart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/107/trunk/ooxml/openxml4Net/OPC/Internal/PackagePropertiesPart.cs
+END
+PartMarshaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/Internal/PartMarshaller.cs
+END
+ZipHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/441/trunk/ooxml/openxml4Net/OPC/Internal/ZipHelper.cs
+END
+PartUnmarshaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/Internal/PartUnmarshaller.cs
+END
+ContentTypeManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/440/trunk/ooxml/openxml4Net/OPC/Internal/ContentTypeManager.cs
+END
+MemoryPackagePartOutputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/410/trunk/ooxml/openxml4Net/OPC/Internal/MemoryPackagePartOutputStream.cs
+END
+ZipContentTypeManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/300/trunk/ooxml/openxml4Net/OPC/Internal/ZipContentTypeManager.cs
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/529/trunk/ooxml
+END
+npoi.snk
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/454/trunk/ooxml/npoi.snk
+END
+POIXMLDocumentPart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/377/trunk/ooxml/POIXMLDocumentPart.cs
+END
+POIXMLFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/108/trunk/ooxml/POIXMLFactory.cs
+END
+POIXMLProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/446/trunk/ooxml/POIXMLProperties.cs
+END
+OOXML vs2010.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/517/trunk/ooxml/OOXML%20vs2010.csproj
+END
+POIXMLPropertiesTextExtractor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/411/trunk/ooxml/POIXMLPropertiesTextExtractor.cs
+END
+POIXMLRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/108/trunk/ooxml/POIXMLRelation.cs
+END
+POIXmlException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/108/trunk/ooxml/POIXmlException.cs
+END
+POIXMLDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/508/trunk/ooxml/POIXMLDocument.cs
+END
+OOXML.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/521/trunk/ooxml/OOXML.csproj
+END
+POIXMLTextExtractor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/108/trunk/ooxml/POIXMLTextExtractor.cs
+END

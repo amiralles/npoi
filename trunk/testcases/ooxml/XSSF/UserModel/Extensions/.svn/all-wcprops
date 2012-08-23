@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/517/trunk/testcases/ooxml/XSSF/UserModel/Extensions
+END
+TestXSSFBorder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/UserModel/Extensions/TestXSSFBorder.cs
+END
+TestXSSFCellFill.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/517/trunk/testcases/ooxml/XSSF/UserModel/Extensions/TestXSSFCellFill.cs
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/529/trunk/ooxml/OpenXmlFormats
+END
+Bibliography.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Bibliography.cs
+END
+DocumentPropertiesExtended.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/524/trunk/ooxml/OpenXmlFormats/DocumentPropertiesExtended.cs
+END
+ExtendedPropertiesDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/524/trunk/ooxml/OpenXmlFormats/ExtendedPropertiesDocument.cs
+END
+NamespaceMappingXmlToCs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/455/trunk/ooxml/OpenXmlFormats/NamespaceMappingXmlToCs.txt
+END
+RelationshipReference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/409/trunk/ooxml/OpenXmlFormats/RelationshipReference.cs
+END
+CustomXmlDataProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/448/trunk/ooxml/OpenXmlFormats/CustomXmlDataProperties.cs
+END
+AdditionalCharacteristics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/AdditionalCharacteristics.cs
+END
+OpenXmlFormats vs2010.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/505/trunk/ooxml/OpenXmlFormats/OpenXmlFormats%20vs2010.csproj
+END
+DocumentPropertiesVariantTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/524/trunk/ooxml/OpenXmlFormats/DocumentPropertiesVariantTypes.cs
+END
+OOXMLFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/239/trunk/ooxml/OpenXmlFormats/OOXMLFactory.cs
+END
+DocumentPropertiesCustom.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/525/trunk/ooxml/OpenXmlFormats/DocumentPropertiesCustom.cs
+END
+CustomPropertiesDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/CustomPropertiesDocument.cs
+END
+CustomXmlSchemaProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/395/trunk/ooxml/OpenXmlFormats/CustomXmlSchemaProperties.cs
+END
+OpenXmlFormats.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/521/trunk/ooxml/OpenXmlFormats/OpenXmlFormats.csproj
+END

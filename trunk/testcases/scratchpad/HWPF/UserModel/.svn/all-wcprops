@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/116/trunk/testcases/scratchpad/HWPF/UserModel
+END
+TestRangeReplacement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/UserModel/TestRangeReplacement.cs
+END
+TestBug46610.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/UserModel/TestBug46610.cs
+END
+TestTableRow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/114/trunk/testcases/scratchpad/HWPF/UserModel/TestTableRow.cs
+END
+TestRangeDelete.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/UserModel/TestRangeDelete.cs
+END
+TestShapes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/UserModel/TestShapes.cs
+END
+TestProblems.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/69/trunk/testcases/scratchpad/HWPF/UserModel/TestProblems.cs
+END
+TestRangeInsertion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/69/trunk/testcases/scratchpad/HWPF/UserModel/TestRangeInsertion.cs
+END
+TestRange.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/UserModel/TestRange.cs
+END
+TestPictures.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/116/trunk/testcases/scratchpad/HWPF/UserModel/TestPictures.cs
+END
+TestLists.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/UserModel/TestLists.cs
+END
+TestBugs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/69/trunk/testcases/scratchpad/HWPF/UserModel/TestBugs.cs
+END
+TestHeaderStories.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/UserModel/TestHeaderStories.cs
+END
+TestHWPFOldDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/76/trunk/testcases/scratchpad/HWPF/UserModel/TestHWPFOldDocument.cs
+END
+TestRangeSymbols.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/UserModel/TestRangeSymbols.cs
+END
+TestBorderCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/testcases/scratchpad/HWPF/UserModel/TestBorderCode.cs
+END
+TestRangeProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/72/trunk/testcases/scratchpad/HWPF/UserModel/TestRangeProperties.cs
+END

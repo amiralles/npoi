@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/515/trunk/ooxml/XWPF/Usermodel
+END
+XWPFHeaderFooter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/425/trunk/ooxml/XWPF/Usermodel/XWPFHeaderFooter.cs
+END
+TextSegement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/TextSegement.cs
+END
+Document.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/Document.cs
+END
+TextAlignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/TextAlignment.cs
+END
+LineSpacingRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/428/trunk/ooxml/XWPF/Usermodel/LineSpacingRule.cs
+END
+VerticalAlign.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/VerticalAlign.cs
+END
+XWPFAbstractNum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/485/trunk/ooxml/XWPF/Usermodel/XWPFAbstractNum.cs
+END
+BreakClear.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/BreakClear.cs
+END
+XWPFNumbering.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/485/trunk/ooxml/XWPF/Usermodel/XWPFNumbering.cs
+END
+XWPFTableCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Usermodel/XWPFTableCell.cs
+END
+BodyType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/BodyType.cs
+END
+XWPFLatentStyles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Usermodel/XWPFLatentStyles.cs
+END
+XWPFFooter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/425/trunk/ooxml/XWPF/Usermodel/XWPFFooter.cs
+END
+XWPFSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/497/trunk/ooxml/XWPF/Usermodel/XWPFSettings.cs
+END
+XWPFStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Usermodel/XWPFStyle.cs
+END
+IBody.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/419/trunk/ooxml/XWPF/Usermodel/IBody.cs
+END
+XWPFComment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Usermodel/XWPFComment.cs
+END
+XWPFRun.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/503/trunk/ooxml/XWPF/Usermodel/XWPFRun.cs
+END
+XWPFHyperlink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/419/trunk/ooxml/XWPF/Usermodel/XWPFHyperlink.cs
+END
+XWPFPictureData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Usermodel/XWPFPictureData.cs
+END
+XWPFFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/425/trunk/ooxml/XWPF/Usermodel/XWPFFactory.cs
+END
+IBodyElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/419/trunk/ooxml/XWPF/Usermodel/IBodyElement.cs
+END
+XWPFPicture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/503/trunk/ooxml/XWPF/Usermodel/XWPFPicture.cs
+END
+PositionInParagraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/PositionInParagraph.cs
+END
+XWPFRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/419/trunk/ooxml/XWPF/Usermodel/XWPFRelation.cs
+END
+XWPFDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/485/trunk/ooxml/XWPF/Usermodel/XWPFDocument.cs
+END
+XWPFTableRow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Usermodel/XWPFTableRow.cs
+END
+TOC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Usermodel/TOC.cs
+END
+XWPFFootnotes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/421/trunk/ooxml/XWPF/Usermodel/XWPFFootnotes.cs
+END
+BreakType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/428/trunk/ooxml/XWPF/Usermodel/BreakType.cs
+END
+XWPFStyles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/425/trunk/ooxml/XWPF/Usermodel/XWPFStyles.cs
+END
+XWPFTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/497/trunk/ooxml/XWPF/Usermodel/XWPFTable.cs
+END
+XWPFHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/425/trunk/ooxml/XWPF/Usermodel/XWPFHeader.cs
+END
+XWPFHyperlinkRun.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/XWPFHyperlinkRun.cs
+END
+Borders.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/Borders.cs
+END
+XWPFFootnote.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/447/trunk/ooxml/XWPF/Usermodel/XWPFFootnote.cs
+END
+ParagraphAlignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/ParagraphAlignment.cs
+END
+XWPFNum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/XWPFNum.cs
+END
+UnderlinePatterns.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/479/trunk/ooxml/XWPF/Usermodel/UnderlinePatterns.cs
+END
+BodyElementType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/418/trunk/ooxml/XWPF/Usermodel/BodyElementType.cs
+END
+XWPFParagraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/515/trunk/ooxml/XWPF/Usermodel/XWPFParagraph.cs
+END

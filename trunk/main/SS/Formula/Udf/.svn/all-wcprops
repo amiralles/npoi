@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/256/trunk/main/SS/Formula/Udf
+END
+DefaultUDFFinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/256/trunk/main/SS/Formula/Udf/DefaultUDFFinder.cs
+END
+AggregatingUDFFinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/160/trunk/main/SS/Formula/Udf/AggregatingUDFFinder.cs
+END
+UDFFinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/160/trunk/main/SS/Formula/Udf/UDFFinder.cs
+END

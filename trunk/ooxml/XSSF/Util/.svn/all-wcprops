@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/240/trunk/ooxml/XSSF/Util
+END
+CTColComparator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/240/trunk/ooxml/XSSF/Util/CTColComparator.cs
+END
+NumericRange.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/240/trunk/ooxml/XSSF/Util/NumericRange.cs
+END
+EvilUnclosedBRFixingInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/240/trunk/ooxml/XSSF/Util/EvilUnclosedBRFixingInputStream.cs
+END

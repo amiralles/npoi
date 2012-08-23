@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Util
+END
+TestCTColComparator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Util/TestCTColComparator.cs
+END
+TestEvilUnclosedBRFixingInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Util/TestEvilUnclosedBRFixingInputStream.cs
+END
+TestNumericRanges.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Util/TestNumericRanges.cs
+END

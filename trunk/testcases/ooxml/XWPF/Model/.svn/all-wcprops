@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/Model
+END
+TestXWPFHeaderFooterPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/Model/TestXWPFHeaderFooterPolicy.cs
+END
+TestXWPFDecorators.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/Model/TestXWPFDecorators.cs
+END

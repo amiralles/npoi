@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/498/trunk/main/HPSF
+END
+Util.cs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/main/HPSF/Util.cs
+END
+TypeWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/260/trunk/main/HPSF/TypeWriter.cs
+END
+HPSFException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/150/trunk/main/HPSF/HPSFException.cs
+END
+ReadingNotSupportedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/150/trunk/main/HPSF/ReadingNotSupportedException.cs
+END
+Thumbnail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/main/HPSF/Thumbnail.cs
+END
+HPSFRuntimeException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/150/trunk/main/HPSF/HPSFRuntimeException.cs
+END
+CustomProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/368/trunk/main/HPSF/CustomProperties.cs
+END
+NoPropertySetStreamException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/150/trunk/main/HPSF/NoPropertySetStreamException.cs
+END
+WritingNotSupportedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/150/trunk/main/HPSF/WritingNotSupportedException.cs
+END
+PropertySet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/498/trunk/main/HPSF/PropertySet.cs
+END
+SpecialPropertySet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/main/HPSF/SpecialPropertySet.cs
+END
+DocumentSummaryInformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/429/trunk/main/HPSF/DocumentSummaryInformation.cs
+END
+Variant.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/main/HPSF/Variant.cs
+END
+Section.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/368/trunk/main/HPSF/Section.cs
+END
+UnexpectedPropertySetTypeException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/150/trunk/main/HPSF/UnexpectedPropertySetTypeException.cs
+END
+MutablePropertySet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/252/trunk/main/HPSF/MutablePropertySet.cs
+END
+Constants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/319/trunk/main/HPSF/Constants.cs
+END
+MissingSectionException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/150/trunk/main/HPSF/MissingSectionException.cs
+END
+MutableSection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/313/trunk/main/HPSF/MutableSection.cs
+END
+IllegalVariantTypeException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/150/trunk/main/HPSF/IllegalVariantTypeException.cs
+END
+CustomProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/main/HPSF/CustomProperty.cs
+END
+NoFormatIDException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/150/trunk/main/HPSF/NoFormatIDException.cs
+END
+MarkUnsupportedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/150/trunk/main/HPSF/MarkUnsupportedException.cs
+END
+NoSingleSectionException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/150/trunk/main/HPSF/NoSingleSectionException.cs
+END
+Property.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/252/trunk/main/HPSF/Property.cs
+END
+VariantTypeException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/150/trunk/main/HPSF/VariantTypeException.cs
+END
+PropertySetFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/main/HPSF/PropertySetFactory.cs
+END
+MutableProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/main/HPSF/MutableProperty.cs
+END
+UnsupportedVariantTypeException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/150/trunk/main/HPSF/UnsupportedVariantTypeException.cs
+END
+VariantSupport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/368/trunk/main/HPSF/VariantSupport.cs
+END
+SummaryInformation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/main/HPSF/SummaryInformation.cs
+END
+IllegalPropertySetDataException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/150/trunk/main/HPSF/IllegalPropertySetDataException.cs
+END

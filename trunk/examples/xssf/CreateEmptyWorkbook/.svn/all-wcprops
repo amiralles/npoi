@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/486/trunk/examples/xssf/CreateEmptyWorkbook
+END
+CreateEmptyWorkbook.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/461/trunk/examples/xssf/CreateEmptyWorkbook/CreateEmptyWorkbook.csproj
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/461/trunk/examples/xssf/CreateEmptyWorkbook/app.config
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/486/trunk/examples/xssf/CreateEmptyWorkbook/Program.cs
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/EventModel
+END
+TestAbortableListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/EventModel/TestAbortableListener.cs
+END
+TestEventRecordFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/EventModel/TestEventRecordFactory.cs
+END

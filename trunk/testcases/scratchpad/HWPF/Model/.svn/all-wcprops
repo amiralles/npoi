@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/testcases/scratchpad/HWPF/Model
+END
+TestDocumentProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/Model/TestDocumentProperties.cs
+END
+TestCHPBinTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/Model/TestCHPBinTable.cs
+END
+TestSectionTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/Model/TestSectionTable.cs
+END
+TestFontTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/Model/TestFontTable.cs
+END
+TestFileInformationBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/Model/TestFileInformationBlock.cs
+END
+TestPAPBinTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/69/trunk/testcases/scratchpad/HWPF/Model/TestPAPBinTable.cs
+END
+TestTextPieceTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/69/trunk/testcases/scratchpad/HWPF/Model/TestTextPieceTable.cs
+END
+TestBookmarksTables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/69/trunk/testcases/scratchpad/HWPF/Model/TestBookmarksTables.cs
+END
+TestPlexOfCps.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/Model/TestPlexOfCps.cs
+END
+TestNotesTables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/trunk/testcases/scratchpad/HWPF/Model/TestNotesTables.cs
+END
+TestRevisionMarkAuthorTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/Model/TestRevisionMarkAuthorTable.cs
+END
+TestSavedByTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/47/trunk/testcases/scratchpad/HWPF/Model/TestSavedByTable.cs
+END
+TestListTables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/Model/TestListTables.cs
+END
+TestStyleSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/Model/TestStyleSheet.cs
+END

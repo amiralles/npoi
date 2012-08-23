@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions
+END
+TestValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestValue.cs
+END
+TestLen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestLen.cs
+END
+TestTFunc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestTFunc.cs
+END
+TestFind.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestFind.cs
+END
+AbstractNumericTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/AbstractNumericTestCase.cs
+END
+TestClean.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestClean.cs
+END
+TestAddress.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestAddress.cs
+END
+TestStatsLib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestStatsLib.cs
+END
+TestLeftRight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestLeftRight.cs
+END
+TestIndexFunctionFromSpreadsheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestIndexFunctionFromSpreadsheet.cs
+END
+TestDays360.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestDays360.cs
+END
+TestXYNumericFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestXYNumericFunction.cs
+END
+TestFinanceLib.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestFinanceLib.cs
+END
+TestPoisson.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestPoisson.cs
+END
+TestSubtotal.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestSubtotal.cs
+END
+TestPmt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestPmt.cs
+END
+TestIndirect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestIndirect.cs
+END
+TestNpv.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestNpv.cs
+END
+NumericFunctionInvoker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/NumericFunctionInvoker.cs
+END
+TestMid.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestMid.cs
+END
+TestAverage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestAverage.cs
+END
+TestTrim.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestTrim.cs
+END
+TestDate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestDate.cs
+END
+TestLookupFunctionsFromSpreadsheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestLookupFunctionsFromSpreadsheet.cs
+END
+EvalFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/192/trunk/testcases/main/SS/Formula/Functions/EvalFactory.cs
+END
+TestMathX.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestMathX.cs
+END
+TestIsBlank.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestIsBlank.cs
+END
+TestSumif.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestSumif.cs
+END
+TestCalendarFieldFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestCalendarFieldFunction.cs
+END
+TestText.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestText.cs
+END
+TestOffset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestOffset.cs
+END
+TestRoundFuncs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestRoundFuncs.cs
+END
+TestCountFuncs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestCountFuncs.cs
+END
+TestTrunc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestTrunc.cs
+END
+TestMatch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestMatch.cs
+END
+TestIrr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestIrr.cs
+END
+TestTime.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestTime.cs
+END
+TestNper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestNper.cs
+END
+TestRowCol.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestRowCol.cs
+END
+TestSumproduct.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestSumproduct.cs
+END
+TestIndex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Functions/TestIndex.cs
+END

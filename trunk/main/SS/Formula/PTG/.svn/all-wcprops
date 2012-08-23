@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/495/trunk/main/SS/Formula/PTG
+END
+OperationPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/OperationPtg.cs
+END
+PercentPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/PercentPtg.cs
+END
+UnaryPlusPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/UnaryPlusPtg.cs
+END
+Ref3DPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/Ref3DPtg.cs
+END
+DividePtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/DividePtg.cs
+END
+FuncVarPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/FuncVarPtg.cs
+END
+IntersectionPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/IntersectionPtg.cs
+END
+AreaI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/AreaI.cs
+END
+ExternSheetNameResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/258/trunk/main/SS/Formula/PTG/ExternSheetNameResolver.cs
+END
+StringPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/StringPtg.cs
+END
+ConcatPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/ConcatPtg.cs
+END
+NameXPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/NameXPtg.cs
+END
+TwoDEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/227/trunk/main/SS/Formula/PTG/TwoDEval.cs
+END
+ArrayPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/ArrayPtg.cs
+END
+FormulaShifter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/329/trunk/main/SS/Formula/PTG/FormulaShifter.cs
+END
+MultiplyPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/MultiplyPtg.cs
+END
+ScalarConstantPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/ScalarConstantPtg.cs
+END
+ControlPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/ControlPtg.cs
+END
+NamePtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/NamePtg.cs
+END
+LessThanPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/227/trunk/main/SS/Formula/PTG/LessThanPtg.cs
+END
+TblPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/TblPtg.cs
+END
+DeletedArea3DPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/DeletedArea3DPtg.cs
+END
+AreaNPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/AreaNPtg.cs
+END
+NotEqualPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/NotEqualPtg.cs
+END
+UnionPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/UnionPtg.cs
+END
+ErrPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/ErrPtg.cs
+END
+NumberPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/313/trunk/main/SS/Formula/PTG/NumberPtg.cs
+END
+Area2DPtgBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/Area2DPtgBase.cs
+END
+IntPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/313/trunk/main/SS/Formula/PTG/IntPtg.cs
+END
+RefNPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/RefNPtg.cs
+END
+BoolPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/BoolPtg.cs
+END
+ExpPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/ExpPtg.cs
+END
+RangePtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/RangePtg.cs
+END
+Ref2DPtgBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/Ref2DPtgBase.cs
+END
+AreaPtgBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/AreaPtgBase.cs
+END
+MissingArgPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/MissingArgPtg.cs
+END
+GreaterThanPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/GreaterThanPtg.cs
+END
+RefPtgBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/495/trunk/main/SS/Formula/PTG/RefPtgBase.cs
+END
+EqualPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/EqualPtg.cs
+END
+MemAreaPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/MemAreaPtg.cs
+END
+AreaPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/AreaPtg.cs
+END
+AbstractFunctionPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/227/trunk/main/SS/Formula/PTG/AbstractFunctionPtg.cs
+END
+AttrPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/AttrPtg.cs
+END
+UnaryMinusPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/UnaryMinusPtg.cs
+END
+RefPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/RefPtg.cs
+END
+Ptg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/278/trunk/main/SS/Formula/PTG/Ptg.cs
+END
+AreaErrPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/AreaErrPtg.cs
+END
+GreaterEqualPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/GreaterEqualPtg.cs
+END
+ParenthesisPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/ParenthesisPtg.cs
+END
+RefErrorPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/RefErrorPtg.cs
+END
+SubtractPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/SubtractPtg.cs
+END
+MemErrPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/MemErrPtg.cs
+END
+AddPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/AddPtg.cs
+END
+OperandPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/278/trunk/main/SS/Formula/PTG/OperandPtg.cs
+END
+ValueOperatorPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/ValueOperatorPtg.cs
+END
+MemFuncPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/MemFuncPtg.cs
+END
+DeletedRef3DPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/DeletedRef3DPtg.cs
+END
+FuncPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/FuncPtg.cs
+END
+PowerPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/PowerPtg.cs
+END
+LessEqualPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/164/trunk/main/SS/Formula/PTG/LessEqualPtg.cs
+END
+UnknownPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/UnknownPtg.cs
+END
+Area3DPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/260/trunk/main/SS/Formula/PTG/Area3DPtg.cs
+END

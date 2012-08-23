@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/515/trunk/testcases/ooxml/XWPF/UserModel
+END
+TestXWPFNumbering.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFNumbering.cs
+END
+TestXWPFTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFTable.cs
+END
+TestXWPFHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFHeader.cs
+END
+TestXWPFDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/513/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFDocument.cs
+END
+TestXWPFTableRow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFTableRow.cs
+END
+TestXWPFFootnotes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFFootnotes.cs
+END
+TestXWPFHeadings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFHeadings.cs
+END
+TestXWPFStyles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFStyles.cs
+END
+TestXWPFRun.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFRun.cs
+END
+TestXWPFParagraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/515/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFParagraph.cs
+END
+TestXWPFPictureData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/494/trunk/testcases/ooxml/XWPF/UserModel/TestXWPFPictureData.cs
+END

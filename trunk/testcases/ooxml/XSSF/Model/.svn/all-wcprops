@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Model
+END
+TestStylesTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Model/TestStylesTable.cs
+END
+TestCommentsTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Model/TestCommentsTable.cs
+END
+TestCalculationChain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Model/TestCalculationChain.cs
+END
+TestSharedStringsTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Model/TestSharedStringsTable.cs
+END
+TestMapInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/494/trunk/testcases/ooxml/XSSF/Model/TestMapInfo.cs
+END

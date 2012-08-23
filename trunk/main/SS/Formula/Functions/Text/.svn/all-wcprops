@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/314/trunk/main/SS/Formula/Functions/Text
+END
+Trim.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Text/Trim.cs
+END
+Replace.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Text/Replace.cs
+END
+Substitute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/314/trunk/main/SS/Formula/Functions/Text/Substitute.cs
+END
+CHAR.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/313/trunk/main/SS/Formula/Functions/Text/CHAR.cs
+END
+Len.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Text/Len.cs
+END
+Clean.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/196/trunk/main/SS/Formula/Functions/Text/Clean.cs
+END
+Concatenate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Text/Concatenate.cs
+END
+Text.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/314/trunk/main/SS/Formula/Functions/Text/Text.cs
+END
+LeftRight.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/196/trunk/main/SS/Formula/Functions/Text/LeftRight.cs
+END
+Lower.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Text/Lower.cs
+END
+TextFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Text/TextFunction.cs
+END
+Upper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Text/Upper.cs
+END
+Exact.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Text/Exact.cs
+END
+SearchFind.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/314/trunk/main/SS/Formula/Functions/Text/SearchFind.cs
+END
+Mid.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Text/Mid.cs
+END

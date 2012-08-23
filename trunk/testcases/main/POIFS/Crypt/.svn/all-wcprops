@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/357/trunk/testcases/main/POIFS/Crypt
+END
+TestDecryptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/357/trunk/testcases/main/POIFS/Crypt/TestDecryptor.cs
+END
+TestEncryptionInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/357/trunk/testcases/main/POIFS/Crypt/TestEncryptionInfo.cs
+END

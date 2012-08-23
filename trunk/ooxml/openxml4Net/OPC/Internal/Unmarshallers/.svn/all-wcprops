@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/441/trunk/ooxml/openxml4Net/OPC/Internal/Unmarshallers
+END
+UnmarshallContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/36/trunk/ooxml/openxml4Net/OPC/Internal/Unmarshallers/UnmarshallContext.cs
+END
+PackagePropertiesUnmarshaller.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/441/trunk/ooxml/openxml4Net/OPC/Internal/Unmarshallers/PackagePropertiesUnmarshaller.cs
+END

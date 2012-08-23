@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/372/trunk/testcases/scratchpad/HWPF
+END
+TestHWPFRangeParts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/47/trunk/testcases/scratchpad/HWPF/TestHWPFRangeParts.cs
+END
+HWPFTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/HWPFTestCase.cs
+END
+TestFieldsTables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/42/trunk/testcases/scratchpad/HWPF/TestFieldsTables.cs
+END
+HWPFDocFixture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/372/trunk/testcases/scratchpad/HWPF/HWPFDocFixture.cs
+END
+HWPFTestDataSamples.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/testcases/scratchpad/HWPF/HWPFTestDataSamples.cs
+END
+TestHWPFPictures.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/69/trunk/testcases/scratchpad/HWPF/TestHWPFPictures.cs
+END

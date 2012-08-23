@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112/trunk/testcases/openxml4net/OPC/Compliance
+END
+TestOPCComplianceCoreProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/112/trunk/testcases/openxml4net/OPC/Compliance/TestOPCComplianceCoreProperties.cs
+END
+TestOPCCompliancePartName.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/112/trunk/testcases/openxml4net/OPC/Compliance/TestOPCCompliancePartName.cs
+END
+TestOPCCompliancePackageModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/112/trunk/testcases/openxml4net/OPC/Compliance/TestOPCCompliancePackageModel.cs
+END

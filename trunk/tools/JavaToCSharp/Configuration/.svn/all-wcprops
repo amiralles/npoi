@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Configuration
+END
+RuleSection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Configuration/RuleSection.cs
+END
+J2CSSection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Configuration/J2CSSection.cs
+END
+RuleSectionCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Configuration/RuleSectionCollection.cs
+END

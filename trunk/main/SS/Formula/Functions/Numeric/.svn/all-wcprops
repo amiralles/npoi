@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/203/trunk/main/SS/Formula/Functions/Numeric
+END
+Rounddown.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Rounddown.cs
+END
+Log.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Log.cs
+END
+Log10.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Log10.cs
+END
+Tan.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Tan.cs
+END
+Atan.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Atan.cs
+END
+Cos.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Cos.cs
+END
+Rand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Rand.cs
+END
+Acos.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Acos.cs
+END
+Round.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Round.cs
+END
+Sin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Sin.cs
+END
+Sqrt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Sqrt.cs
+END
+Asin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Asin.cs
+END
+Tanh.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Tanh.cs
+END
+Poisson.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/203/trunk/main/SS/Formula/Functions/Numeric/Poisson.cs
+END
+Atanh.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Atanh.cs
+END
+Trunc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/201/trunk/main/SS/Formula/Functions/Numeric/Trunc.cs
+END
+Roundup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Roundup.cs
+END
+Cosh.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Cosh.cs
+END
+Acosh.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Acosh.cs
+END
+Sinh.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Sinh.cs
+END
+Asinh.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Asinh.cs
+END
+Abs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Abs.cs
+END
+Atan2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Atan2.cs
+END
+Pi.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Pi.cs
+END
+NumericFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/203/trunk/main/SS/Formula/Functions/Numeric/NumericFunction.cs
+END
+Ln.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Numeric/Ln.cs
+END

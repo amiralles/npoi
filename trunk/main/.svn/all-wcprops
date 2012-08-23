@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/526/trunk/main
+END
+EncryptedDocumentException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/150/trunk/main/EncryptedDocumentException.cs
+END
+npoi.snk
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/main/npoi.snk
+END
+GlobalSuppressions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/318/trunk/main/GlobalSuppressions.cs
+END
+main.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/521/trunk/main/main.csproj
+END
+Resource1.resx
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/main/Resource1.resx
+END
+POIDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/368/trunk/main/POIDocument.cs
+END
+OldFileFormatException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/150/trunk/main/OldFileFormatException.cs
+END
+POITextExtractor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/main/POITextExtractor.cs
+END
+Resource11.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/462/trunk/main/Resource11.Designer.cs
+END
+POIUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/347/trunk/main/POIUtils.cs
+END
+main vs10.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/474/trunk/main/main%20vs10.csproj
+END
+POIOLE2TextExtractor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/main/POIOLE2TextExtractor.cs
+END

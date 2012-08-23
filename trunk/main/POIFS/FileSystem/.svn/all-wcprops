@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/510/trunk/main/POIFS/FileSystem
+END
+DocumentOutputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/DocumentOutputStream.cs
+END
+POIFSDocumentWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/POIFSDocumentWriter.cs
+END
+DocumentDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/main/POIFS/FileSystem/DocumentDescriptor.cs
+END
+POIFSDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/431/trunk/main/POIFS/FileSystem/POIFSDocument.cs
+END
+BATManaged.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/main/POIFS/FileSystem/BATManaged.cs
+END
+DocumentNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/174/trunk/main/POIFS/FileSystem/DocumentNode.cs
+END
+POIFSFileSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/376/trunk/main/POIFS/FileSystem/POIFSFileSystem.cs
+END
+DirectoryEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/DirectoryEntry.cs
+END
+Ole10Native.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/Ole10Native.cs
+END
+NDocumentInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/405/trunk/main/POIFS/FileSystem/NDocumentInputStream.cs
+END
+NPOIFSMiniStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/NPOIFSMiniStore.cs
+END
+ODocumentInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/405/trunk/main/POIFS/FileSystem/ODocumentInputStream.cs
+END
+OfficeXmlFileException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/436/trunk/main/POIFS/FileSystem/OfficeXmlFileException.cs
+END
+POIFSDocumentPath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/510/trunk/main/POIFS/FileSystem/POIFSDocumentPath.cs
+END
+NPOIFSDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/NPOIFSDocument.cs
+END
+CloseIgnoringInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/CloseIgnoringInputStream.cs
+END
+DocumentEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/main/POIFS/FileSystem/DocumentEntry.cs
+END
+Entry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/Entry.cs
+END
+POIFSDocumentReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/POIFSDocumentReader.cs
+END
+NPOIFSFileSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/352/trunk/main/POIFS/FileSystem/NPOIFSFileSystem.cs
+END
+Ole10NativeException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/436/trunk/main/POIFS/FileSystem/Ole10NativeException.cs
+END
+EntryNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/EntryNode.cs
+END
+BlockStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/347/trunk/main/POIFS/FileSystem/BlockStore.cs
+END
+DirectoryNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/376/trunk/main/POIFS/FileSystem/DirectoryNode.cs
+END
+NPOIFSStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/429/trunk/main/POIFS/FileSystem/NPOIFSStream.cs
+END
+DocumentInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/405/trunk/main/POIFS/FileSystem/DocumentInputStream.cs
+END

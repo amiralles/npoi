@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart
+END
+TestChartTitleFormatRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestChartTitleFormatRecord.cs
+END
+TestSeriesLabelsRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestSeriesLabelsRecord.cs
+END
+TestCategorySeriesAxisRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestCategorySeriesAxisRecord.cs
+END
+TestAreaFormatRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestAreaFormatRecord.cs
+END
+TestSeriesIndexRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestSeriesIndexRecord.cs
+END
+TestTextRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestTextRecord.cs
+END
+TestObjectLinkRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestObjectLinkRecord.cs
+END
+TestSeriesListRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestSeriesListRecord.cs
+END
+TestFontBasisRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestFontBasisRecord.cs
+END
+TestValueRangeRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestValueRangeRecord.cs
+END
+TestNumberFormatIndexRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestNumberFormatIndexRecord.cs
+END
+TestSeriesRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestSeriesRecord.cs
+END
+TestTickRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestTickRecord.cs
+END
+TestLegendRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestLegendRecord.cs
+END
+TestSeriesTextRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestSeriesTextRecord.cs
+END
+TestDefaultDataLabelTextPropertiesRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestDefaultDataLabelTextPropertiesRecord.cs
+END
+TestLinkedDataRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestLinkedDataRecord.cs
+END
+TestBarRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestBarRecord.cs
+END
+TestDatRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestDatRecord.cs
+END
+TestAreaRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestAreaRecord.cs
+END
+TestChartFormatRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestChartFormatRecord.cs
+END
+TestAxisParentRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestAxisParentRecord.cs
+END
+TestAxisOptionsRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestAxisOptionsRecord.cs
+END
+TestSeriesChartGroupIndexRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestSeriesChartGroupIndexRecord.cs
+END
+TestDataFormatRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestDataFormatRecord.cs
+END
+TestSheetPropertiesRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestSheetPropertiesRecord.cs
+END
+TestAxisUsedRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestAxisUsedRecord.cs
+END
+TestAxisLineFormatRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestAxisLineFormatRecord.cs
+END
+TestFrameRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestFrameRecord.cs
+END
+TestSeriesToChartGroupRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestSeriesToChartGroupRecord.cs
+END
+TestFontIndexRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestFontIndexRecord.cs
+END
+TestLineFormatRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestLineFormatRecord.cs
+END
+TestChartRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestChartRecord.cs
+END
+TestUnitsRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestUnitsRecord.cs
+END
+TestAxisRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestAxisRecord.cs
+END
+TestPlotAreaRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestPlotAreaRecord.cs
+END
+TestPlotGrowthRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Chart/TestPlotGrowthRecord.cs
+END

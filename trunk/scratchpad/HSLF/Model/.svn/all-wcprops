@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/339/trunk/scratchpad/HSLF/Model
+END
+AutoShapes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/AutoShapes.cs
+END
+SlideMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/SlideMaster.cs
+END
+HeadersFooters.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/HeadersFooters.cs
+END
+Background.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Background.cs
+END
+ShapePainter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/ShapePainter.cs
+END
+ActiveXShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/ActiveXShape.cs
+END
+ShapeTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/ShapeTypes.cs
+END
+Fill.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Fill.cs
+END
+TableCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/TableCell.cs
+END
+Notes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Notes.cs
+END
+ShapeFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/ShapeFactory.cs
+END
+TitleMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/TitleMaster.cs
+END
+ShapeOutline.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/ShapeOutline.cs
+END
+OLEShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/OLEShape.cs
+END
+Comment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Comment.cs
+END
+TextShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/TextShape.cs
+END
+Hyperlink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Hyperlink.cs
+END
+Sheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Sheet.cs
+END
+SimpleShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/107/trunk/scratchpad/HSLF/Model/SimpleShape.cs
+END
+Picture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Picture.cs
+END
+ShapeGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/ShapeGroup.cs
+END
+Placeholder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Placeholder.cs
+END
+MasterSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/107/trunk/scratchpad/HSLF/Model/MasterSheet.cs
+END
+PPGraphics2D.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/PPGraphics2D.cs
+END
+Table.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Table.cs
+END
+Polygon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Polygon.cs
+END
+Line.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Line.cs
+END
+AutoShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/AutoShape.cs
+END
+TextBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/TextBox.cs
+END
+Slide.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Slide.cs
+END
+Shape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Shape.cs
+END
+MovieShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/MovieShape.cs
+END
+Freeform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/Freeform.cs
+END
+PPFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/PPFont.cs
+END
+TextPainter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/TextPainter.cs
+END
+TextRun.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/TextRun.cs
+END

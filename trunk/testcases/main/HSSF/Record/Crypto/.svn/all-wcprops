@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Crypto
+END
+TestBiff8EncryptionKey.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Crypto/TestBiff8EncryptionKey.cs
+END
+TestBiff8DecryptingStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Crypto/TestBiff8DecryptingStream.cs
+END
+TestRC4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Crypto/TestRC4.cs
+END

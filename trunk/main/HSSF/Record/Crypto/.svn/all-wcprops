@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/306/trunk/main/HSSF/Record/Crypto
+END
+Biff8EncryptionKey.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/306/trunk/main/HSSF/Record/Crypto/Biff8EncryptionKey.cs
+END
+Biff8DecryptingStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/260/trunk/main/HSSF/Record/Crypto/Biff8DecryptingStream.cs
+END
+Biff8RC4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/227/trunk/main/HSSF/Record/Crypto/Biff8RC4.cs
+END
+RC4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/main/HSSF/Record/Crypto/RC4.cs
+END

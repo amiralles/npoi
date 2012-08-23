@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/431/trunk/main/HSSF/Record/SubRecord
+END
+NoteStructureSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/260/trunk/main/HSSF/Record/SubRecord/NoteStructureSubRecord.cs
+END
+EndSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/260/trunk/main/HSSF/Record/SubRecord/EndSubRecord.cs
+END
+CommonObjectDataSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/260/trunk/main/HSSF/Record/SubRecord/CommonObjectDataSubRecord.cs
+END
+ScrollableObjectSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/313/trunk/main/HSSF/Record/SubRecord/ScrollableObjectSubRecord.cs
+END
+LbsDataSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/313/trunk/main/HSSF/Record/SubRecord/LbsDataSubRecord.cs
+END
+EmbeddedObjectRefSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/431/trunk/main/HSSF/Record/SubRecord/EmbeddedObjectRefSubRecord.cs
+END
+GroupMarkerSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/260/trunk/main/HSSF/Record/SubRecord/GroupMarkerSubRecord.cs
+END
+SubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/260/trunk/main/HSSF/Record/SubRecord/SubRecord.cs
+END

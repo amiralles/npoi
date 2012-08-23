@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/431/trunk/main/HSSF/Record/CF
+END
+CellRange.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/289/trunk/main/HSSF/Record/CF/CellRange.cs
+END
+FontFormatting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/431/trunk/main/HSSF/Record/CF/FontFormatting.cs
+END
+BorderFormatting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/397/trunk/main/HSSF/Record/CF/BorderFormatting.cs
+END
+PatternFormatting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/260/trunk/main/HSSF/Record/CF/PatternFormatting.cs
+END
+CellRangeUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/227/trunk/main/HSSF/Record/CF/CellRangeUtil.cs
+END

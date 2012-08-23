@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Atp
+END
+TestRandBetween.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Atp/TestRandBetween.cs
+END
+TestYearFracCalculatorFromSpreadsheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Atp/TestYearFracCalculatorFromSpreadsheet.cs
+END
+TestMRound.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Atp/TestMRound.cs
+END
+TestYearFracCalculator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/Atp/TestYearFracCalculator.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/295/trunk/main/HSSF/Record/AutoFilter
+END
+AutoFilterRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/260/trunk/main/HSSF/Record/AutoFilter/AutoFilterRecord.cs
+END
+AutoFilterInfoRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/295/trunk/main/HSSF/Record/AutoFilter/AutoFilterInfoRecord.cs
+END
+FilterModeRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/260/trunk/main/HSSF/Record/AutoFilter/FilterModeRecord.cs
+END
+DOPER.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/295/trunk/main/HSSF/Record/AutoFilter/DOPER.cs
+END

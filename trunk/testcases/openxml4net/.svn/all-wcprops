@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/353/trunk/testcases/openxml4net
+END
+TestContentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/77/trunk/testcases/openxml4net/TestContentType.cs
+END
+TestFileHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/77/trunk/testcases/openxml4net/TestFileHelper.cs
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/110/trunk/testcases/openxml4net/App.config
+END
+OOXML4Net.Testcases.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/107/trunk/testcases/openxml4net/OOXML4Net.Testcases.csproj
+END
+TestPackageCoreProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/107/trunk/testcases/openxml4net/TestPackageCoreProperties.cs
+END
+TestPackagePartName.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112/trunk/testcases/openxml4net/TestPackagePartName.cs
+END
+ZipFileAssert.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/107/trunk/testcases/openxml4net/ZipFileAssert.cs
+END
+TestRelationships.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112/trunk/testcases/openxml4net/TestRelationships.cs
+END
+TestListParts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112/trunk/testcases/openxml4net/TestListParts.cs
+END
+TestPackage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112/trunk/testcases/openxml4net/TestPackage.cs
+END
+OpenXML4NetTestDataSamples.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/107/trunk/testcases/openxml4net/OpenXML4NetTestDataSamples.cs
+END
+OOXML4Net.Testcases vs2010.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/353/trunk/testcases/openxml4net/OOXML4Net.Testcases%20vs2010.csproj
+END
+TestPackageThumbnail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/77/trunk/testcases/openxml4net/TestPackageThumbnail.cs
+END
+TestPackagingURIHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112/trunk/testcases/openxml4net/TestPackagingURIHelper.cs
+END
+POIDataSamples.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/77/trunk/testcases/openxml4net/POIDataSamples.cs
+END

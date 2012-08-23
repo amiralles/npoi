@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/511/trunk/main/HSSF/Model
+END
+ConvertAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/main/HSSF/Model/ConvertAnchor.cs
+END
+TextboxShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/304/trunk/main/HSSF/Model/TextboxShape.cs
+END
+ParseNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/227/trunk/main/HSSF/Model/ParseNode.cs
+END
+CommentShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/438/trunk/main/HSSF/Model/CommentShape.cs
+END
+AbstractShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/511/trunk/main/HSSF/Model/AbstractShape.cs
+END
+DrawingManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/main/HSSF/Model/DrawingManager.cs
+END
+RowBlocksReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/227/trunk/main/HSSF/Model/RowBlocksReader.cs
+END
+WorkbookRecordList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/174/trunk/main/HSSF/Model/WorkbookRecordList.cs
+END
+ComboboxShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/main/HSSF/Model/ComboboxShape.cs
+END
+SimpleFilledShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/24/trunk/main/HSSF/Model/SimpleFilledShape.cs
+END
+RecordStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/main/HSSF/Model/RecordStream.cs
+END
+InternalWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/438/trunk/main/HSSF/Model/InternalWorkbook.cs
+END
+PictureShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/304/trunk/main/HSSF/Model/PictureShape.cs
+END
+Model.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/174/trunk/main/HSSF/Model/Model.cs
+END
+RecordOrderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/298/trunk/main/HSSF/Model/RecordOrderer.cs
+END
+LinkTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/314/trunk/main/HSSF/Model/LinkTable.cs
+END
+InternalSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/511/trunk/main/HSSF/Model/InternalSheet.cs
+END
+HSSFFormulaParser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/299/trunk/main/HSSF/Model/HSSFFormulaParser.cs
+END
+PolygonShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/438/trunk/main/HSSF/Model/PolygonShape.cs
+END
+DrawingManager2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/main/HSSF/Model/DrawingManager2.cs
+END
+LineShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/334/trunk/main/HSSF/Model/LineShape.cs
+END

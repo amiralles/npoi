@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Pivot
+END
+TestExtendedPivotTableViewFieldsRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Pivot/TestExtendedPivotTableViewFieldsRecord.cs
+END
+TestViewFieldsRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Pivot/TestViewFieldsRecord.cs
+END
+TestPageItemRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Pivot/TestPageItemRecord.cs
+END

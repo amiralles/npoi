@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/339/trunk/scratchpad/HSLF/Model/TextProperties
+END
+CharFlagsTextProp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/83/trunk/scratchpad/HSLF/Model/TextProperties/CharFlagsTextProp.cs
+END
+BitMaskTextProp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/339/trunk/scratchpad/HSLF/Model/TextProperties/BitMaskTextProp.cs
+END
+TextPropCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Model/TextProperties/TextPropCollection.cs
+END
+AlignmentTextProp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/83/trunk/scratchpad/HSLF/Model/TextProperties/AlignmentTextProp.cs
+END
+TextProp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/339/trunk/scratchpad/HSLF/Model/TextProperties/TextProp.cs
+END
+ParagraphFlagsTextProp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/83/trunk/scratchpad/HSLF/Model/TextProperties/ParagraphFlagsTextProp.cs
+END

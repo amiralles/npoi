@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Exceptions
+END
+HSLFException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/88/trunk/scratchpad/HSLF/Exceptions/HSLFException.cs
+END
+InvalidRecordFormatException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Exceptions/InvalidRecordFormatException.cs
+END
+OldPowerPointFormatException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Exceptions/OldPowerPointFormatException.cs
+END
+EncryptedPowerPointFileException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Exceptions/EncryptedPowerPointFileException.cs
+END
+CorruptPowerPointFileException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/scratchpad/HSLF/Exceptions/CorruptPowerPointFileException.cs
+END

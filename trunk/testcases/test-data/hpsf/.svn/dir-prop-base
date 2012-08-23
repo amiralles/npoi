@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 65
+*.adm
+*.doc
+*.ppt
+*.shw
+*.sldprt
+*.xls
+TestVisioWithCodepage.vsd
+
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/526/trunk/solution/Lib
+END
+NPOI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/465/trunk/solution/Lib/NPOI.dll
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/496/trunk/solution/Lib/nunit.framework.dll
+END
+ICSharpCode.SharpZipLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/solution/Lib/ICSharpCode.SharpZipLib.dll
+END
+ICSharpCode.TextEditor.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/477/trunk/solution/Lib/ICSharpCode.TextEditor.dll
+END
+NPOI.ScratchPad.HSSF.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/339/trunk/solution/Lib/NPOI.ScratchPad.HSSF.dll
+END
+Ionic.Zip.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/solution/Lib/Ionic.Zip.dll
+END
+NPOI.ScratchPad.HWPF.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/339/trunk/solution/Lib/NPOI.ScratchPad.HWPF.dll
+END

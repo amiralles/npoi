@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/527/trunk/ooxml/XSSF/UserModel
+END
+XSSFEvaluationCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/300/trunk/ooxml/XSSF/UserModel/XSSFEvaluationCell.cs
+END
+XSSFFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/365/trunk/ooxml/XSSF/UserModel/XSSFFactory.cs
+END
+XSSFSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFSheet.cs
+END
+XSSFSimpleShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/446/trunk/ooxml/XSSF/UserModel/XSSFSimpleShape.cs
+END
+XSSFVMLDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/526/trunk/ooxml/XSSF/UserModel/XSSFVMLDrawing.cs
+END
+XSSFPicture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/446/trunk/ooxml/XSSF/UserModel/XSSFPicture.cs
+END
+XSSFMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFMap.cs
+END
+XSSFShapeGroup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/446/trunk/ooxml/XSSF/UserModel/XSSFShapeGroup.cs
+END
+XSSFPrintSetup.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/495/trunk/ooxml/XSSF/UserModel/XSSFPrintSetup.cs
+END
+XSSFChildAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/275/trunk/ooxml/XSSF/UserModel/XSSFChildAnchor.cs
+END
+XSSFName.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/519/trunk/ooxml/XSSF/UserModel/XSSFName.cs
+END
+XSSFDataValidationHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/300/trunk/ooxml/XSSF/UserModel/XSSFDataValidationHelper.cs
+END
+XSSFDataValidation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/355/trunk/ooxml/XSSF/UserModel/XSSFDataValidation.cs
+END
+XSSFOddFooter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/240/trunk/ooxml/XSSF/UserModel/XSSFOddFooter.cs
+END
+XSSFConditionalFormattingRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/300/trunk/ooxml/XSSF/UserModel/XSSFConditionalFormattingRule.cs
+END
+XSSFTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFTable.cs
+END
+XSSFSheetConditionalFormatting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/394/trunk/ooxml/XSSF/UserModel/XSSFSheetConditionalFormatting.cs
+END
+XSSFGraphicFrame.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/446/trunk/ooxml/XSSF/UserModel/XSSFGraphicFrame.cs
+END
+XSSFDataValidationConstraint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/355/trunk/ooxml/XSSF/UserModel/XSSFDataValidationConstraint.cs
+END
+XSSFTextBox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/446/trunk/ooxml/XSSF/UserModel/XSSFTextBox.cs
+END
+XSSFWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/519/trunk/ooxml/XSSF/UserModel/XSSFWorkbook.cs
+END
+XSSFShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/353/trunk/ooxml/XSSF/UserModel/XSSFShape.cs
+END
+XSSFEvaluationSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/300/trunk/ooxml/XSSF/UserModel/XSSFEvaluationSheet.cs
+END
+XSSFCellStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/527/trunk/ooxml/XSSF/UserModel/XSSFCellStyle.cs
+END
+XSSFFontFormatting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFFontFormatting.cs
+END
+XSSFFirstFooter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/285/trunk/ooxml/XSSF/UserModel/XSSFFirstFooter.cs
+END
+XSSFRow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFRow.cs
+END
+XSSFBorderFormatting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFBorderFormatting.cs
+END
+XSSFPatternFormatting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFPatternFormatting.cs
+END
+XSSFClientAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/446/trunk/ooxml/XSSF/UserModel/XSSFClientAnchor.cs
+END
+XSSFAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/240/trunk/ooxml/XSSF/UserModel/XSSFAnchor.cs
+END
+XSSFEvenFooter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/240/trunk/ooxml/XSSF/UserModel/XSSFEvenFooter.cs
+END
+XSSFRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFRelation.cs
+END
+XSSFColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFColor.cs
+END
+XSSFAutoFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/396/trunk/ooxml/XSSF/UserModel/XSSFAutoFilter.cs
+END
+XSSFOddHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/270/trunk/ooxml/XSSF/UserModel/XSSFOddHeader.cs
+END
+XSSFCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/526/trunk/ooxml/XSSF/UserModel/XSSFCell.cs
+END
+XSSFRichTextString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFRichTextString.cs
+END
+XSSFDataFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/248/trunk/ooxml/XSSF/UserModel/XSSFDataFormat.cs
+END
+XSSFEvaluationWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/455/trunk/ooxml/XSSF/UserModel/XSSFEvaluationWorkbook.cs
+END
+XSSFFormulaEvaluator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/455/trunk/ooxml/XSSF/UserModel/XSSFFormulaEvaluator.cs
+END
+XSSFDialogsheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/512/trunk/ooxml/XSSF/UserModel/XSSFDialogsheet.cs
+END
+XSSFConnector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/446/trunk/ooxml/XSSF/UserModel/XSSFConnector.cs
+END
+XSSFChartSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/446/trunk/ooxml/XSSF/UserModel/XSSFChartSheet.cs
+END
+XSSFDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/495/trunk/ooxml/XSSF/UserModel/XSSFDrawing.cs
+END
+XSSFConditionalFormatting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/285/trunk/ooxml/XSSF/UserModel/XSSFConditionalFormatting.cs
+END
+XSSFFirstHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/285/trunk/ooxml/XSSF/UserModel/XSSFFirstHeader.cs
+END
+XSSFChart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/522/trunk/ooxml/XSSF/UserModel/XSSFChart.cs
+END
+XSSFComment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/495/trunk/ooxml/XSSF/UserModel/XSSFComment.cs
+END
+XSSFCreationHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/519/trunk/ooxml/XSSF/UserModel/XSSFCreationHelper.cs
+END
+XSSFPictureData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/495/trunk/ooxml/XSSF/UserModel/XSSFPictureData.cs
+END
+XSSFHyperlink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/519/trunk/ooxml/XSSF/UserModel/XSSFHyperlink.cs
+END
+XSSFFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/XSSFFont.cs
+END
+XSSFEvenHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/411/trunk/ooxml/XSSF/UserModel/XSSFEvenHeader.cs
+END

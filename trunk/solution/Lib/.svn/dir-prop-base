@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 84
+*.dll
+*.pdb
+NPOI.dll
+*.lastcodeanalysissucceeded
+NPOI.dll.CodeAnalysisLog.xml
+*.XML
+
+END

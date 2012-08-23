@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/503/trunk/ooxml/OpenXmlFormats/Vml
+END
+SpreadsheetDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/495/trunk/ooxml/OpenXmlFormats/Vml/SpreadsheetDrawing.cs
+END
+Main.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/503/trunk/ooxml/OpenXmlFormats/Vml/Main.cs
+END
+WordprocessingDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/455/trunk/ooxml/OpenXmlFormats/Vml/WordprocessingDrawing.cs
+END
+OfficeDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/472/trunk/ooxml/OpenXmlFormats/Vml/OfficeDrawing.cs
+END
+PresentationDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/455/trunk/ooxml/OpenXmlFormats/Vml/PresentationDrawing.cs
+END

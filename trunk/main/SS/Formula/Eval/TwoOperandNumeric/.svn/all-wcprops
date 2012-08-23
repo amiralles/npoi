@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/227/trunk/main/SS/Formula/Eval/TwoOperandNumeric
+END
+DivideEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/TwoOperandNumeric/DivideEval.cs
+END
+SubtractEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/TwoOperandNumeric/SubtractEval.cs
+END
+AddEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/227/trunk/main/SS/Formula/Eval/TwoOperandNumeric/AddEval.cs
+END
+PowerEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/TwoOperandNumeric/PowerEval.cs
+END
+TwoOperandNumericOperation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/174/trunk/main/SS/Formula/Eval/TwoOperandNumeric/TwoOperandNumericOperation.cs
+END
+MultiplyEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/TwoOperandNumeric/MultiplyEval.cs
+END

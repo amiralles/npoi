@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/527/trunk/ooxml/OpenXmlFormats/Spreadsheet
+END
+QueryTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Spreadsheet/QueryTable.cs
+END
+AutoFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/500/trunk/ooxml/OpenXmlFormats/Spreadsheet/AutoFilter.cs
+END
+Styles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/527/trunk/ooxml/OpenXmlFormats/Spreadsheet/Styles.cs
+END
+CommentsDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/CommentsDocument.cs
+END
+SingleXmlCellsDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/SingleXmlCellsDocument.cs
+END
+Comments.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/Comments.cs
+END
+ExternalConnections.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/451/trunk/ooxml/OpenXmlFormats/Spreadsheet/ExternalConnections.cs
+END
+SharedWorkbookRevisions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Spreadsheet/SharedWorkbookRevisions.cs
+END
+TableDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/TableDocument.cs
+END
+StyleSheetDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/StyleSheetDocument.cs
+END
+MapInfoDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/MapInfoDocument.cs
+END
+ChartsheetDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/450/trunk/ooxml/OpenXmlFormats/Spreadsheet/ChartsheetDocument.cs
+END
+SingleCellTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/500/trunk/ooxml/OpenXmlFormats/Spreadsheet/SingleCellTable.cs
+END
+CustomXmlMappings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Spreadsheet/CustomXmlMappings.cs
+END
+WorkbookDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/WorkbookDocument.cs
+END
+Workbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/519/trunk/ooxml/OpenXmlFormats/Spreadsheet/Workbook.cs
+END
+BaseTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Spreadsheet/BaseTypes.cs
+END
+ThemeDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/ThemeDocument.cs
+END
+CalculationChain.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/500/trunk/ooxml/OpenXmlFormats/Spreadsheet/CalculationChain.cs
+END
+CalcChainDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/CalcChainDocument.cs
+END
+SharedStringTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/504/trunk/ooxml/OpenXmlFormats/Spreadsheet/SharedStringTable.cs
+END
+SharedWorkbookUserNames.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Spreadsheet/SharedWorkbookUserNames.cs
+END
+Sheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/517/trunk/ooxml/OpenXmlFormats/Spreadsheet/Sheet.cs
+END
+SstDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/SstDocument.cs
+END
+SupplementaryWorkbooks.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/451/trunk/ooxml/OpenXmlFormats/Spreadsheet/SupplementaryWorkbooks.cs
+END
+SheetMetadata.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/450/trunk/ooxml/OpenXmlFormats/Spreadsheet/SheetMetadata.cs
+END
+WorksheetDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/446/trunk/ooxml/OpenXmlFormats/Spreadsheet/WorksheetDocument.cs
+END

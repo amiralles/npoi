@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/313/trunk/main/SS/Formula/Functions/Boolean
+END
+True.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Boolean/True.cs
+END
+Not.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/227/trunk/main/SS/Formula/Functions/Boolean/Not.cs
+END
+Or.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Boolean/Or.cs
+END
+And.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Boolean/And.cs
+END
+BooleanFunction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/313/trunk/main/SS/Formula/Functions/Boolean/BooleanFunction.cs
+END
+False.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/163/trunk/main/SS/Formula/Functions/Boolean/False.cs
+END

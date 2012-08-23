@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/73/trunk/scratchpad/HWPF/Model/Types
+END
+FLDAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/scratchpad/HWPF/Model/Types/FLDAbstractType.cs
+END
+TCAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/scratchpad/HWPF/Model/Types/TCAbstractType.cs
+END
+SEPAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/scratchpad/HWPF/Model/Types/SEPAbstractType.cs
+END
+FSPAAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/Types/FSPAAbstractType.cs
+END
+HRESIAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/Types/HRESIAbstractType.cs
+END
+CHPAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/Types/CHPAbstractType.cs
+END
+FRDAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/61/trunk/scratchpad/HWPF/Model/Types/FRDAbstractType.cs
+END
+TLPAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/Types/TLPAbstractType.cs
+END
+FIBAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/Types/FIBAbstractType.cs
+END
+LFOAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/Model/Types/LFOAbstractType.cs
+END
+PAPAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/scratchpad/HWPF/Model/Types/PAPAbstractType.cs
+END
+DOPAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40/trunk/scratchpad/HWPF/Model/Types/DOPAbstractType.cs
+END
+BKFAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/61/trunk/scratchpad/HWPF/Model/Types/BKFAbstractType.cs
+END
+TAPAbstractType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/Model/Types/TAPAbstractType.cs
+END

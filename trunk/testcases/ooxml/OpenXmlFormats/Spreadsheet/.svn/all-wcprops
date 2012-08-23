@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/494/trunk/testcases/ooxml/OpenXmlFormats/Spreadsheet
+END
+WorkbookDocumentTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/494/trunk/testcases/ooxml/OpenXmlFormats/Spreadsheet/WorkbookDocumentTest.cs
+END
+CT_FontTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/391/trunk/testcases/ooxml/OpenXmlFormats/Spreadsheet/CT_FontTest.cs
+END
+CommentsDocumentTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/494/trunk/testcases/ooxml/OpenXmlFormats/Spreadsheet/CommentsDocumentTest.cs
+END
+CalcChainDocumentTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/494/trunk/testcases/ooxml/OpenXmlFormats/Spreadsheet/CalcChainDocumentTest.cs
+END
+VmlDrawingDocumentTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/494/trunk/testcases/ooxml/OpenXmlFormats/Spreadsheet/VmlDrawingDocumentTest.cs
+END
+DrawingDocumentTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/494/trunk/testcases/ooxml/OpenXmlFormats/Spreadsheet/DrawingDocumentTest.cs
+END
+WorksheetDocumentTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/494/trunk/testcases/ooxml/OpenXmlFormats/Spreadsheet/WorksheetDocumentTest.cs
+END

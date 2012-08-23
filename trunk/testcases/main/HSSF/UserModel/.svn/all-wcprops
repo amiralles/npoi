@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/511/trunk/testcases/main/HSSF/UserModel
+END
+TestFontDetails.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestFontDetails.cs
+END
+StreamUtility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/227/trunk/testcases/main/HSSF/UserModel/StreamUtility.cs
+END
+TestBug43093.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestBug43093.cs
+END
+TestHSSFDataFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/511/trunk/testcases/main/HSSF/UserModel/TestHSSFDataFormatter.cs
+END
+TestHSSFWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFWorkbook.cs
+END
+TestFormulas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestFormulas.cs
+END
+TestCloneSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestCloneSheet.cs
+END
+TestEscherGraphics.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestEscherGraphics.cs
+END
+TestSheetHiding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestSheetHiding.cs
+END
+HSSFEvaluationTestHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/258/trunk/testcases/main/HSSF/UserModel/HSSFEvaluationTestHelper.cs
+END
+TestHSSFRow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFRow.cs
+END
+SanityChecker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/SanityChecker.cs
+END
+TestSanityChecker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestSanityChecker.cs
+END
+TestOLE2Embeding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestOLE2Embeding.cs
+END
+TestHSSFClientAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFClientAnchor.cs
+END
+TestPOIFSProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestPOIFSProperties.cs
+END
+TestHSSFDateUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFDateUtil.cs
+END
+TestHSSFOptimiser.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFOptimiser.cs
+END
+TestFormulaEvaluatorDocs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestFormulaEvaluatorDocs.cs
+END
+TestHSSFCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFCell.cs
+END
+TestHSSFSheetSetOrder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFSheetSetOrder.cs
+END
+TestHSSFRichTextString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFRichTextString.cs
+END
+TestHSSFDataFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/510/trunk/testcases/main/HSSF/UserModel/TestHSSFDataFormat.cs
+END
+TestFormulaEvaluatorBugs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestFormulaEvaluatorBugs.cs
+END
+TestHSSFFormulaEvaluator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFFormulaEvaluator.cs
+END
+TestEscherGraphics2d.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/253/trunk/testcases/main/HSSF/UserModel/TestEscherGraphics2d.cs
+END
+TestHSSFTextbox.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFTextbox.cs
+END
+TestSheetShiftRows.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestSheetShiftRows.cs
+END
+TestBug42464.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestBug42464.cs
+END
+TestHSSFConditionalFormatting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFConditionalFormatting.cs
+END
+TestHSSFPalette.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFPalette.cs
+END
+TestUnfixedBugs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestUnfixedBugs.cs
+END
+TestDataValidation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestDataValidation.cs
+END
+TestHSSFComment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFComment.cs
+END
+TestHSSFSheetOrder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFSheetOrder.cs
+END
+TestRowStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestRowStyle.cs
+END
+TestHSSFPictureData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFPictureData.cs
+END
+TestHSSFHyperlink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFHyperlink.cs
+END
+TestHSSFFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFFont.cs
+END
+TestHSSFHeaderFooter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFHeaderFooter.cs
+END
+TestHSSFSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/511/trunk/testcases/main/HSSF/UserModel/TestHSSFSheet.cs
+END
+TestWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestWorkbook.cs
+END
+TestHSSFExternalFunctions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFExternalFunctions.cs
+END
+TestHSSFPicture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFPicture.cs
+END
+TestCellStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestCellStyle.cs
+END
+TestBugs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestBugs.cs
+END
+FormulaExtractor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/227/trunk/testcases/main/HSSF/UserModel/FormulaExtractor.cs
+END
+TestHSSFPatriarch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFPatriarch.cs
+END
+HSSFTestHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/323/trunk/testcases/main/HSSF/UserModel/HSSFTestHelper.cs
+END
+TestHSSFName.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFName.cs
+END
+TestUnicodeWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestUnicodeWorkbook.cs
+END
+TestUppercaseWorkbook.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestUppercaseWorkbook.cs
+END
+TestLinkTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestLinkTable.cs
+END
+TestHSSFSheetShiftRows.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFSheetShiftRows.cs
+END
+RecordInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/testcases/main/HSSF/UserModel/RecordInspector.cs
+END
+TestHSSFSheetUpdateArrayFormulas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestHSSFSheetUpdateArrayFormulas.cs
+END
+TestReadWriteChart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/UserModel/TestReadWriteChart.cs
+END

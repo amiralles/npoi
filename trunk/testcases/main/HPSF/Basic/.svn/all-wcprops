@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/511/trunk/testcases/main/HPSF/Basic
+END
+TestEmptyProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HPSF/Basic/TestEmptyProperties.cs
+END
+TestWriteWellKnown.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HPSF/Basic/TestWriteWellKnown.cs
+END
+Util.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/494/trunk/testcases/main/HPSF/Basic/Util.cs
+END
+TestBasic.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/494/trunk/testcases/main/HPSF/Basic/TestBasic.cs
+END
+TestHPSFBugs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/494/trunk/testcases/main/HPSF/Basic/TestHPSFBugs.cs
+END
+TestMetaDataIPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/HPSF/Basic/TestMetaDataIPI.cs
+END
+TestClassID.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/494/trunk/testcases/main/HPSF/Basic/TestClassID.cs
+END
+TestUnicode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/494/trunk/testcases/main/HPSF/Basic/TestUnicode.cs
+END
+POIFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/testcases/main/HPSF/Basic/POIFile.cs
+END
+TestReadAllFiles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HPSF/Basic/TestReadAllFiles.cs
+END
+TestWrite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/511/trunk/testcases/main/HPSF/Basic/TestWrite.cs
+END

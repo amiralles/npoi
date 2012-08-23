@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Aggregates
+END
+TestFormulaRecordAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Aggregates/TestFormulaRecordAggregate.cs
+END
+TestSharedValueManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Aggregates/TestSharedValueManager.cs
+END
+TestRowRecordsAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Aggregates/TestRowRecordsAggregate.cs
+END
+TestCFRecordsAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Aggregates/TestCFRecordsAggregate.cs
+END
+TestColumnInfoRecordsAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Aggregates/TestColumnInfoRecordsAggregate.cs
+END
+TestValueRecordsAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Aggregates/TestValueRecordsAggregate.cs
+END
+TestPageSettingsBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/Aggregates/TestPageSettingsBlock.cs
+END

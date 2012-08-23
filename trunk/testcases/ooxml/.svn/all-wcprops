@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/528/trunk/testcases/ooxml
+END
+TestDetectAsOOXML.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/494/trunk/testcases/ooxml/TestDetectAsOOXML.cs
+END
+npoi.snk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/454/trunk/testcases/ooxml/npoi.snk
+END
+TestXMLPropertiesTextExtractor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/110/trunk/testcases/ooxml/TestXMLPropertiesTextExtractor.cs
+END
+OOXML.Testcases vs2010.nunit
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/ooxml/OOXML.Testcases%20vs2010.nunit
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/515/trunk/testcases/ooxml/App.config
+END
+OOXML.Testcases vs2010.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/524/trunk/testcases/ooxml/OOXML.Testcases%20vs2010.csproj
+END
+TestEmbeded.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/494/trunk/testcases/ooxml/TestEmbeded.cs
+END
+TestPOIXMLProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/494/trunk/testcases/ooxml/TestPOIXMLProperties.cs
+END
+OOXML.Testcases vs2010.VisualState.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/ooxml/OOXML.Testcases%20vs2010.VisualState.xml
+END
+OOXML.Testcases.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/521/trunk/testcases/ooxml/OOXML.Testcases.csproj
+END
+TestPOIXMLDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/494/trunk/testcases/ooxml/TestPOIXMLDocument.cs
+END

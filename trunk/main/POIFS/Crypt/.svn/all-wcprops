@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/357/trunk/main/POIFS/Crypt
+END
+Decryptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/357/trunk/main/POIFS/Crypt/Decryptor.cs
+END
+AgileDecryptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/357/trunk/main/POIFS/Crypt/AgileDecryptor.cs
+END
+EcmaDecryptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/357/trunk/main/POIFS/Crypt/EcmaDecryptor.cs
+END
+EncryptionHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/357/trunk/main/POIFS/Crypt/EncryptionHeader.cs
+END
+Base64.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/347/trunk/main/POIFS/Crypt/Base64.cs
+END
+EncryptionVerifier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/357/trunk/main/POIFS/Crypt/EncryptionVerifier.cs
+END
+EncryptionInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/357/trunk/main/POIFS/Crypt/EncryptionInfo.cs
+END

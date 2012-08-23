@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/UserModel
+END
+PictureType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/61/trunk/scratchpad/HWPF/UserModel/PictureType.cs
+END
+TableRow.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/scratchpad/HWPF/UserModel/TableRow.cs
+END
+SectionProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/UserModel/SectionProperties.cs
+END
+DropCapSpecifier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/UserModel/DropCapSpecifier.cs
+END
+ObjectPoolImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52/trunk/scratchpad/HWPF/UserModel/ObjectPoolImpl.cs
+END
+ObjectsPool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/trunk/scratchpad/HWPF/UserModel/ObjectsPool.cs
+END
+TableCellDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/trunk/scratchpad/HWPF/UserModel/TableCellDescriptor.cs
+END
+TableCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/47/trunk/scratchpad/HWPF/UserModel/TableCell.cs
+END
+Notes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/49/trunk/scratchpad/HWPF/UserModel/Notes.cs
+END
+HeaderStories.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/UserModel/HeaderStories.cs
+END
+TableProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/UserModel/TableProperties.cs
+END
+Section.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/82/trunk/scratchpad/HWPF/UserModel/Section.cs
+END
+FieldImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/UserModel/FieldImpl.cs
+END
+Bookmark.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/UserModel/Bookmark.cs
+END
+OfficeDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/49/trunk/scratchpad/HWPF/UserModel/OfficeDrawing.cs
+END
+BorderCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/UserModel/BorderCode.cs
+END
+TableAutoformatLookSpecifier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/UserModel/TableAutoformatLookSpecifier.cs
+END
+BookmarksImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/UserModel/BookmarksImpl.cs
+END
+Picture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/73/trunk/scratchpad/HWPF/UserModel/Picture.cs
+END
+OfficeDrawingsImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/UserModel/OfficeDrawingsImpl.cs
+END
+ShadingDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/UserModel/ShadingDescriptor.cs
+END
+DateAndTime.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/UserModel/DateAndTime.cs
+END
+CharacterRun.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/82/trunk/scratchpad/HWPF/UserModel/CharacterRun.cs
+END
+ParagraphProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/UserModel/ParagraphProperties.cs
+END
+Field.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/UserModel/Field.cs
+END
+Table.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/78/trunk/scratchpad/HWPF/UserModel/Table.cs
+END
+Bookmarks.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/UserModel/Bookmarks.cs
+END
+FieldsImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/UserModel/FieldsImpl.cs
+END
+OfficeDrawings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/UserModel/OfficeDrawings.cs
+END
+LineSpacingDescriptor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/UserModel/LineSpacingDescriptor.cs
+END
+Range.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/339/trunk/scratchpad/HWPF/UserModel/Range.cs
+END
+ListEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/UserModel/ListEntry.cs
+END
+HWPFList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/41/trunk/scratchpad/HWPF/UserModel/HWPFList.cs
+END
+Shape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/UserModel/Shape.cs
+END
+TableIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/UserModel/TableIterator.cs
+END
+DocumentPosition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/UserModel/DocumentPosition.cs
+END
+Paragraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/UserModel/Paragraph.cs
+END
+Fields.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/79/trunk/scratchpad/HWPF/UserModel/Fields.cs
+END
+CharacterProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/scratchpad/HWPF/UserModel/CharacterProperties.cs
+END
+NotesImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/69/trunk/scratchpad/HWPF/UserModel/NotesImpl.cs
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG
+END
+TestPercentPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestPercentPtg.cs
+END
+TestRef3DPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestRef3DPtg.cs
+END
+TestFuncVarPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestFuncVarPtg.cs
+END
+TestIntersectionPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestIntersectionPtg.cs
+END
+TestAreaPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestAreaPtg.cs
+END
+TestAttrPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestAttrPtg.cs
+END
+TestArrayPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestArrayPtg.cs
+END
+TestAreaErrPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestAreaErrPtg.cs
+END
+TestExternalFunctionFormulas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestExternalFunctionFormulas.cs
+END
+TestExternalNameReference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestExternalNameReference.cs
+END
+TestErrPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestErrPtg.cs
+END
+TestUnionPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestUnionPtg.cs
+END
+TestFuncPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestFuncPtg.cs
+END
+TestRangePtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestRangePtg.cs
+END
+TestReferencePtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestReferencePtg.cs
+END
+AbstractPtgTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/187/trunk/testcases/main/SS/Formula/PTG/AbstractPtgTestCase.cs
+END
+TestArea3DPtg.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/SS/Formula/PTG/TestArea3DPtg.cs
+END

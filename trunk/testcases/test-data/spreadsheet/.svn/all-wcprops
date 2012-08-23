@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/308/trunk/testcases/test-data/spreadsheet
+END
+FW 8.6 Table Relationship2.xls
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/308/trunk/testcases/test-data/spreadsheet/FW%208.6%20Table%20Relationship2.xls
+END
+NpoiBug5139.xls
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/129/trunk/testcases/test-data/spreadsheet/NpoiBug5139.xls
+END
+npoiBug5010.xls
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/129/trunk/testcases/test-data/spreadsheet/npoiBug5010.xls
+END

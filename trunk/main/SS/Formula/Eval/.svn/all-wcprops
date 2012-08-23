@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/459/trunk/main/SS/Formula/Eval
+END
+AreaEvalBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/AreaEvalBase.cs
+END
+StringValueEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/StringValueEval.cs
+END
+MissingArgEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/MissingArgEval.cs
+END
+IntersectionEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/227/trunk/main/SS/Formula/Eval/IntersectionEval.cs
+END
+StringEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/StringEval.cs
+END
+RefEvalBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/RefEvalBase.cs
+END
+ConcatEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/ConcatEval.cs
+END
+AreaEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/AreaEval.cs
+END
+NameXEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/NameXEval.cs
+END
+UnaryMinusEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/UnaryMinusEval.cs
+END
+RefEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/RefEval.cs
+END
+ValueEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/ValueEval.cs
+END
+EvaluationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/227/trunk/main/SS/Formula/Eval/EvaluationException.cs
+END
+Eval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/Eval.cs
+END
+NameEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/NameEval.cs
+END
+NumericOperationEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/NumericOperationEval.cs
+END
+FunctionEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/459/trunk/main/SS/Formula/Eval/FunctionEval.cs
+END
+BlankEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/BlankEval.cs
+END
+StringOperationEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/StringOperationEval.cs
+END
+NumberEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/313/trunk/main/SS/Formula/Eval/NumberEval.cs
+END
+ErrorEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/ErrorEval.cs
+END
+BoolEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/227/trunk/main/SS/Formula/Eval/BoolEval.cs
+END
+ValueEvalToNumericXlator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/ValueEvalToNumericXlator.cs
+END
+RangeEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/RangeEval.cs
+END
+NumericValueEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/NumericValueEval.cs
+END
+PercentEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/PercentEval.cs
+END
+OperationEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/OperationEval.cs
+END
+UnaryPlusEval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/161/trunk/main/SS/Formula/Eval/UnaryPlusEval.cs
+END
+OperandResolver.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/316/trunk/main/SS/Formula/Eval/OperandResolver.cs
+END

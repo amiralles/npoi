@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/413/trunk/tools/JavaToCSharp
+END
+JavaToCSharp.sln
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/JavaToCSharp.sln
+END
+RuleEngine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/RuleEngine.cs
+END
+JavaToCSharp.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/JavaToCSharp.csproj.user
+END
+JavaToCSharp.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/JavaToCSharp.csproj
+END
+IRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/IRule.cs
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/413/trunk/tools/JavaToCSharp/App.config
+END
+run.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/run.ps1
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/Program.cs
+END
+batchrename.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/batchrename.ps1
+END
+JavaToCSharp.gpState
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/93/trunk/tools/JavaToCSharp/JavaToCSharp.gpState
+END

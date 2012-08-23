@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/347/trunk/main/POIFS/property
+END
+PropertyTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/347/trunk/main/POIFS/property/PropertyTable.cs
+END
+PropertyFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/347/trunk/main/POIFS/property/PropertyFactory.cs
+END
+PropertyConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/main/POIFS/property/PropertyConstants.cs
+END
+DocumentProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/174/trunk/main/POIFS/property/DocumentProperty.cs
+END
+Child.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/main/POIFS/property/Child.cs
+END
+Property.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/347/trunk/main/POIFS/property/Property.cs
+END
+PropertyTableBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/347/trunk/main/POIFS/property/PropertyTableBase.cs
+END
+RootProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/347/trunk/main/POIFS/property/RootProperty.cs
+END
+DirectoryProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/347/trunk/main/POIFS/property/DirectoryProperty.cs
+END
+Parent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/347/trunk/main/POIFS/property/Parent.cs
+END
+NPropertyTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/347/trunk/main/POIFS/property/NPropertyTable.cs
+END

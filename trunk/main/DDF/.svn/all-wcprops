@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/468/trunk/main/DDF
+END
+EscherSpRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/227/trunk/main/DDF/EscherSpRecord.cs
+END
+EscherSerializationListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/main/DDF/EscherSerializationListener.cs
+END
+EscherBitmapBlip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/227/trunk/main/DDF/EscherBitmapBlip.cs
+END
+EscherTertiaryOptRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/main/DDF/EscherTertiaryOptRecord.cs
+END
+EscherBlipRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/227/trunk/main/DDF/EscherBlipRecord.cs
+END
+EscherDgRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/227/trunk/main/DDF/EscherDgRecord.cs
+END
+EscherProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/438/trunk/main/DDF/EscherProperties.cs
+END
+EscherMetafileBlip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/468/trunk/main/DDF/EscherMetafileBlip.cs
+END
+EscherSimpleProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/main/DDF/EscherSimpleProperty.cs
+END
+UnknownEscherRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/331/trunk/main/DDF/UnknownEscherRecord.cs
+END
+EscherBoolProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/main/DDF/EscherBoolProperty.cs
+END
+EscherOptRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/65/trunk/main/DDF/EscherOptRecord.cs
+END
+EscherSplitMenuColorsRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/227/trunk/main/DDF/EscherSplitMenuColorsRecord.cs
+END
+EscherDump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/468/trunk/main/DDF/EscherDump.cs
+END
+EscherPictBlip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/468/trunk/main/DDF/EscherPictBlip.cs
+END
+EscherRecordFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/main/DDF/EscherRecordFactory.cs
+END
+EscherClientAnchorRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/227/trunk/main/DDF/EscherClientAnchorRecord.cs
+END
+EscherSpgrRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/227/trunk/main/DDF/EscherSpgrRecord.cs
+END
+DefaultEscherRecordFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/331/trunk/main/DDF/DefaultEscherRecordFactory.cs
+END
+NullEscherSerializationListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/main/DDF/NullEscherSerializationListener.cs
+END
+EscherContainerRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/227/trunk/main/DDF/EscherContainerRecord.cs
+END
+EscherShapePathProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/main/DDF/EscherShapePathProperty.cs
+END
+EscherArrayProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/main/DDF/EscherArrayProperty.cs
+END
+EscherProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/266/trunk/main/DDF/EscherProperty.cs
+END
+AbstractEscherOptRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/main/DDF/AbstractEscherOptRecord.cs
+END
+EscherPropertyMetaData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/main/DDF/EscherPropertyMetaData.cs
+END
+EscherTextboxRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/227/trunk/main/DDF/EscherTextboxRecord.cs
+END
+EscherBlipWMFRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/468/trunk/main/DDF/EscherBlipWMFRecord.cs
+END
+EscherDggRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/227/trunk/main/DDF/EscherDggRecord.cs
+END
+EscherClientDataRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/154/trunk/main/DDF/EscherClientDataRecord.cs
+END
+EscherBSERecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/334/trunk/main/DDF/EscherBSERecord.cs
+END
+EscherPropertyFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/main/DDF/EscherPropertyFactory.cs
+END
+EscherComplexProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/317/trunk/main/DDF/EscherComplexProperty.cs
+END
+EscherChildAnchorRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/227/trunk/main/DDF/EscherChildAnchorRecord.cs
+END
+EscherRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/89/trunk/main/DDF/EscherRecord.cs
+END
+EscherRGBProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/main/DDF/EscherRGBProperty.cs
+END

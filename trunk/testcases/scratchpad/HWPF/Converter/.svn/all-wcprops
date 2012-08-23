@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/114/trunk/testcases/scratchpad/HWPF/Converter
+END
+TestWordToTextConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/114/trunk/testcases/scratchpad/HWPF/Converter/TestWordToTextConverter.cs
+END
+TestWordToFoConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/82/trunk/testcases/scratchpad/HWPF/Converter/TestWordToFoConverter.cs
+END
+TestWordToHtmlConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/80/trunk/testcases/scratchpad/HWPF/Converter/TestWordToHtmlConverter.cs
+END
+TestNumberFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/72/trunk/testcases/scratchpad/HWPF/Converter/TestNumberFormatter.cs
+END
+AbstractWordUtilsTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/114/trunk/testcases/scratchpad/HWPF/Converter/AbstractWordUtilsTest.cs
+END

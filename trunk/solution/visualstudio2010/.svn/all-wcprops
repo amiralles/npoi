@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/514/trunk/solution/visualstudio2010
+END
+OOXML.vsmdi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/465/trunk/solution/visualstudio2010/OOXML.vsmdi
+END
+OOXML.TestRunConfig.testrunconfig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/369/trunk/solution/visualstudio2010/OOXML.TestRunConfig.testrunconfig
+END
+NPOITest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/465/trunk/solution/visualstudio2010/NPOITest.sln
+END
+NPOI.vsmdi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/369/trunk/solution/visualstudio2010/NPOI.vsmdi
+END
+LocalTestRun.testrunconfig
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/118/trunk/solution/visualstudio2010/LocalTestRun.testrunconfig
+END
+OOXML.sln
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/514/trunk/solution/visualstudio2010/OOXML.sln
+END
+RunFxCop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/315/trunk/solution/visualstudio2010/RunFxCop.bat
+END

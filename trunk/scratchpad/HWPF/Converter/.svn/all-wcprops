@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/101/trunk/scratchpad/HWPF/Converter
+END
+WordToFoConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/86/trunk/scratchpad/HWPF/Converter/WordToFoConverter.cs
+END
+WordToTextConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/101/trunk/scratchpad/HWPF/Converter/WordToTextConverter.cs
+END
+WordToHtmlConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/78/trunk/scratchpad/HWPF/Converter/WordToHtmlConverter.cs
+END
+NumberFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/58/trunk/scratchpad/HWPF/Converter/NumberFormatter.cs
+END
+AbstractWordUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/86/trunk/scratchpad/HWPF/Converter/AbstractWordUtils.cs
+END
+FontReplacer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/58/trunk/scratchpad/HWPF/Converter/FontReplacer.cs
+END
+WordToHtmlUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/64/trunk/scratchpad/HWPF/Converter/WordToHtmlUtils.cs
+END
+WordToFoUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/86/trunk/scratchpad/HWPF/Converter/WordToFoUtils.cs
+END
+AbstractWordConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/101/trunk/scratchpad/HWPF/Converter/AbstractWordConverter.cs
+END
+HtmlDocumentFacade.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/67/trunk/scratchpad/HWPF/Converter/HtmlDocumentFacade.cs
+END
+FoDocumentFacade.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/82/trunk/scratchpad/HWPF/Converter/FoDocumentFacade.cs
+END
+TextDocumentFacade.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/78/trunk/scratchpad/HWPF/Converter/TextDocumentFacade.cs
+END
+DefaultFontReplacer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/58/trunk/scratchpad/HWPF/Converter/DefaultFontReplacer.cs
+END
+PicturesManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/63/trunk/scratchpad/HWPF/Converter/PicturesManager.cs
+END

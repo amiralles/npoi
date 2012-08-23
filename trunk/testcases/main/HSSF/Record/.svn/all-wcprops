@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/498/trunk/testcases/main/HSSF/Record
+END
+TestSSTDeserializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestSSTDeserializer.cs
+END
+TestArrayRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestArrayRecord.cs
+END
+TestSSTRecordSizeCalculator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/498/trunk/testcases/main/HSSF/Record/TestSSTRecordSizeCalculator.cs
+END
+TestNameRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestNameRecord.cs
+END
+TestSCLRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestSCLRecord.cs
+END
+TestEscherAggregate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestEscherAggregate.cs
+END
+TestPaneRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestPaneRecord.cs
+END
+TestInterfaceEndRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestInterfaceEndRecord.cs
+END
+TestTableRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestTableRecord.cs
+END
+TestUnicodeNameRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestUnicodeNameRecord.cs
+END
+TestEmbeddedObjectRefSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestEmbeddedObjectRefSubRecord.cs
+END
+TestSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestSubRecord.cs
+END
+TestExtSSTRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestExtSSTRecord.cs
+END
+TestAutoFilterInfoRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestAutoFilterInfoRecord.cs
+END
+TestSharedFormulaRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestSharedFormulaRecord.cs
+END
+TestBoundSheetRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestBoundSheetRecord.cs
+END
+TestNoteStructureSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestNoteStructureSubRecord.cs
+END
+TestRecordFactoryInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestRecordFactoryInputStream.cs
+END
+TestNameCommentRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestNameCommentRecord.cs
+END
+TestNoteRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestNoteRecord.cs
+END
+TestFormulaRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestFormulaRecord.cs
+END
+TestRecalcIdRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestRecalcIdRecord.cs
+END
+TestBOFRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestBOFRecord.cs
+END
+TestcaseRecordInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestcaseRecordInputStream.cs
+END
+TestRecordFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestRecordFactory.cs
+END
+TestColumnInfoRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestColumnInfoRecord.cs
+END
+TestSSTRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestSSTRecord.cs
+END
+TestWriteAccessRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestWriteAccessRecord.cs
+END
+TestUnicodeString.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestUnicodeString.cs
+END
+TestFeatRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestFeatRecord.cs
+END
+TestLabelRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestLabelRecord.cs
+END
+TestEndSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestEndSubRecord.cs
+END
+TestCFRuleRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestCFRuleRecord.cs
+END
+TestSupBookRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestSupBookRecord.cs
+END
+TestMergeCellsRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestMergeCellsRecord.cs
+END
+TestCommonObjectDataSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestCommonObjectDataSubRecord.cs
+END
+TestExternalNameRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestExternalNameRecord.cs
+END
+TestLbsDataSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestLbsDataSubRecord.cs
+END
+TestDVALRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestDVALRecord.cs
+END
+TestFtCblsSubRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestFtCblsSubRecord.cs
+END
+TestDrawingRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestDrawingRecord.cs
+END
+TestPaletteRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestPaletteRecord.cs
+END
+TestStyleRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestStyleRecord.cs
+END
+TestCFHeaderRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestCFHeaderRecord.cs
+END
+TestBoolErrRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestBoolErrRecord.cs
+END
+TestHyperlinkRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestHyperlinkRecord.cs
+END
+TestStringRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestStringRecord.cs
+END
+TestFontRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestFontRecord.cs
+END
+TestTextObjectBaseRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestTextObjectBaseRecord.cs
+END
+TestDrawingGroupRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestDrawingGroupRecord.cs
+END
+TestExtendedFormatRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestExtendedFormatRecord.cs
+END
+TestObjRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestObjRecord.cs
+END
+TestRecordInputStream.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestRecordInputStream.cs
+END
+TestTextObjectRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/494/trunk/testcases/main/HSSF/Record/TestTextObjectRecord.cs
+END

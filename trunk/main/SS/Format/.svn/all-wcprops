@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/526/trunk/main/SS/Format
+END
+CellNumberFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/431/trunk/main/SS/Format/CellNumberFormatter.cs
+END
+CellFormatCondition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/526/trunk/main/SS/Format/CellFormatCondition.cs
+END
+CellFormatPart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/412/trunk/main/SS/Format/CellFormatPart.cs
+END
+CellGeneralFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/412/trunk/main/SS/Format/CellGeneralFormatter.cs
+END
+CellElapsedFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/412/trunk/main/SS/Format/CellElapsedFormatter.cs
+END
+CellDateFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/509/trunk/main/SS/Format/CellDateFormatter.cs
+END
+CellFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/412/trunk/main/SS/Format/CellFormatter.cs
+END
+CellFormatResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/431/trunk/main/SS/Format/CellFormatResult.cs
+END
+CellTextFormatter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/431/trunk/main/SS/Format/CellTextFormatter.cs
+END
+CellFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/412/trunk/main/SS/Format/CellFormat.cs
+END
+CellFormatType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/429/trunk/main/SS/Format/CellFormatType.cs
+END

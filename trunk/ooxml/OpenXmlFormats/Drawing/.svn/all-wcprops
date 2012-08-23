@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/529/trunk/ooxml/OpenXmlFormats/Drawing
+END
+ChartDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/ChartDrawing.cs
+END
+Shape3DLighting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/Shape3DLighting.cs
+END
+DiagramDataModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/502/trunk/ooxml/OpenXmlFormats/Drawing/DiagramDataModel.cs
+END
+ShapeStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/ShapeStyle.cs
+END
+GraphicalObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/503/trunk/ooxml/OpenXmlFormats/Drawing/GraphicalObject.cs
+END
+SpreadsheetDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/529/trunk/ooxml/OpenXmlFormats/Drawing/SpreadsheetDrawing.cs
+END
+BaseStylesheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/517/trunk/ooxml/OpenXmlFormats/Drawing/BaseStylesheet.cs
+END
+Shape3DStyles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/Shape3DStyles.cs
+END
+DiagramLayoutVariables.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/DiagramLayoutVariables.cs
+END
+DiagramColorTransform.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/502/trunk/ooxml/OpenXmlFormats/Drawing/DiagramColorTransform.cs
+END
+Shape3DCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/Shape3DCamera.cs
+END
+Chart.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/522/trunk/ooxml/OpenXmlFormats/Drawing/Chart.cs
+END
+TableStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/TableStyle.cs
+END
+Compatibility.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/449/trunk/ooxml/OpenXmlFormats/Drawing/Compatibility.cs
+END
+TextParagraph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/502/trunk/ooxml/OpenXmlFormats/Drawing/TextParagraph.cs
+END
+Picture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/Picture.cs
+END
+ShapeGeometry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/512/trunk/ooxml/OpenXmlFormats/Drawing/ShapeGeometry.cs
+END
+DiagramDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/502/trunk/ooxml/OpenXmlFormats/Drawing/DiagramDefinition.cs
+END
+ShapeProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/ShapeProperties.cs
+END
+GraphicalObjectAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/GraphicalObjectAnimation.cs
+END
+WordprocessingDrawing.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/451/trunk/ooxml/OpenXmlFormats/Drawing/WordprocessingDrawing.cs
+END
+Text.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/529/trunk/ooxml/OpenXmlFormats/Drawing/Text.cs
+END
+Shape3DScenePlane.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/Shape3DScenePlane.cs
+END
+ShapeLineProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/ShapeLineProperties.cs
+END
+Table.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/502/trunk/ooxml/OpenXmlFormats/Drawing/Table.cs
+END
+StyleDefaults.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/StyleDefaults.cs
+END
+AudioVideo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/AudioVideo.cs
+END
+StyleSheet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/517/trunk/ooxml/OpenXmlFormats/Drawing/StyleSheet.cs
+END
+GraphicalObjectFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/GraphicalObjectFormat.cs
+END
+DocumentProperties.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/512/trunk/ooxml/OpenXmlFormats/Drawing/DocumentProperties.cs
+END
+TextBullet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/TextBullet.cs
+END
+DiagramStyleDefinition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/502/trunk/ooxml/OpenXmlFormats/Drawing/DiagramStyleDefinition.cs
+END
+DiagramElementPropertySet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/DiagramElementPropertySet.cs
+END
+BaseTypes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/529/trunk/ooxml/OpenXmlFormats/Drawing/BaseTypes.cs
+END
+ShapeEffects.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/512/trunk/ooxml/OpenXmlFormats/Drawing/ShapeEffects.cs
+END
+TextCharacter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/529/trunk/ooxml/OpenXmlFormats/Drawing/TextCharacter.cs
+END
+Shape3DScene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/Shape3DScene.cs
+END
+Gvml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/Gvml.cs
+END
+TextRun.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/501/trunk/ooxml/OpenXmlFormats/Drawing/TextRun.cs
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/Helpers
+END
+ColumnHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/460/trunk/ooxml/XSSF/UserModel/Helpers/ColumnHelper.cs
+END
+XSSFRowShifter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/Helpers/XSSFRowShifter.cs
+END
+XSSFXmlColumnPr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/300/trunk/ooxml/XSSF/UserModel/Helpers/XSSFXmlColumnPr.cs
+END
+XSSFSingleXmlCell.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/517/trunk/ooxml/XSSF/UserModel/Helpers/XSSFSingleXmlCell.cs
+END
+HeaderFooterHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/240/trunk/ooxml/XSSF/UserModel/Helpers/HeaderFooterHelper.cs
+END
+XSSFFormulaUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/395/trunk/ooxml/XSSF/UserModel/Helpers/XSSFFormulaUtils.cs
+END
