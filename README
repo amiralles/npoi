@@ -1,0 +1,14 @@
+==Structure of the fork==
+
+Master contains clean revesions of NPOI from http://npoi.googlecode.com/svn/trunk/
+
+Brunches named patched_REV are created from some revision (REV) of master. Some fixes may be added in patched_REV.
+
+==How to get last changes from official NPOI?==
+
+1. Checkout master
+2. Execute svn update on trunk directory.
+3. Commit to master with comment "revision number REV"
+4. Make the branch named "patched_REV" from previous patched_REV
+5. Rebase just created patched_REV onto HEAD of master
+6. Compile. Run tests. Commit. Push branch to server. Voila! 
