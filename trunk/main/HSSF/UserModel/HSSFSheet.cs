@@ -150,13 +150,6 @@ namespace NPOI.HSSF.UserModel
                     hrow = (HSSFRow)GetRow(cval.Row);
                     if (hrow == null)
                     {
-                        // Some tools (like Perl module SpReadsheet::WriteExcel - bug 41187) skip the RowRecords 
-                        // Excel, OpenOffice.org and GoogleDocs are all OK with this, so POI should be too.
-                        if (rowRecordsAlreadyPresent)
-                        {
-                            // if at least one row record is present, all should be present.
-                            throw new Exception("Unexpected missing row when some rows already present, the file is wrong");
-                        }
                         // Create the row record on the fly now.
                         RowRecord rowRec = new RowRecord(cval.Row);
                         _sheet.AddRow(rowRec);
