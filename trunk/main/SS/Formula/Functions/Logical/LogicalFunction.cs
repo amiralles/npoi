@@ -60,8 +60,9 @@ namespace NPOI.SS.Formula.Functions
         public static Function ISNUMBER = new Isnumber();
         public static Function ISTEXT = new Istext();
         public static Function ISBLANK = new Isblank();
-        public static Function ISERROR = new Iserror();
-        public static Function ISNA = new Isna();
+		public static Function ISERROR = new Iserror();
+		public static Function ISERR = new Iserr();
+		public static Function ISNA = new Isna();
         public static Function ISREF = new Isref();
     }
 }

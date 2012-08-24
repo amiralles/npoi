@@ -35,4 +35,13 @@ namespace NPOI.SS.Formula.Functions
             return arg is ErrorEval;
         }
     }
+
+	public class Iserr : LogicalFunction
+	{
+
+		protected override bool Evaluate(ValueEval arg)
+		{
+			return arg != ErrorEval.NA && arg is ErrorEval;
+		}
+	}
 }
