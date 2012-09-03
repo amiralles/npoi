@@ -262,7 +262,9 @@ namespace TestCases.HSSF.UserModel
                 "dd.mm.yyyy", "dd\\.mm\\.yyyy",
                 "dd\\ mm\\.yyyy AM", "dd\\ mm\\.yyyy pm",
                  "dd\\ mm\\.yyyy\\-dd", "[h]:mm:ss",
-                 "mm/dd/yy", "\"mm\"/\"dd\"/\"yy\"",
+                 "mm/dd/yy", 
+				 "\\\"mm\\\"/\\\"dd\\\"/\\\"yy\\\"",
+				 "mm/dd/yy \"\\\"some\\\" string\"",
                  "m\\/d\\/yyyy", 
 
                 // These crazy ones are valid
@@ -302,7 +304,7 @@ namespace TestCases.HSSF.UserModel
 
             // Then invalid ones
             formats = new String[] {
-                "yyyy*mm*dd",
+				"yyyy*mm*dd",
                 "0.0", "0.000",
                 "0%", "0.0%",
                 "[]Foo", "[BLACK]0.00%",
@@ -320,7 +322,7 @@ namespace TestCases.HSSF.UserModel
             // And these are ones we probably shouldn't allow,
             //  but would need a better regexp
             formats = new String[] {
-                "yyyy:mm:dd",
+                "yyyy:mm:dd", "\"mm\"/\"dd\"/\"yy\"",
         };
             for (int i = 0; i < formats.Length; i++)
             {
