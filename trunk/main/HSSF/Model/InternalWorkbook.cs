@@ -117,6 +117,9 @@ namespace NPOI.HSSF.Model
         [NonSerialized]
         private WriteProtectRecord writeProtect;
 
+		// only on load.
+    	private IDictionary<int, StyleRecord> styleRecordCache;
+
         //private static POILogger log = POILogFactory.GetLogger(typeof(Workbook));
 
         /**
@@ -152,10 +155,11 @@ namespace NPOI.HSSF.Model
          */
         public static InternalWorkbook CreateWorkbook(List<Record> recs)
         {
-            //if (log.Check(POILogger.DEBUG))
+			//if (log.Check(POILogger.DEBUG))
             //    log.Log(DEBUG, "Workbook (Readfile) Created with reclen=",
             //           recs.Count);
             InternalWorkbook retval = new InternalWorkbook();
+			retval.styleRecordCache = new Dictionary<int, StyleRecord>();
             List<Record> records = new List<Record>(recs.Count / 3);
             retval.records.Records=records;
 
@@ -296,6 +300,7 @@ namespace NPOI.HSSF.Model
             }
             //if (log.Check(POILogger.DEBUG))
             //    log.Log(DEBUG, "exit Create workbook from existing file function");
+        	retval.styleRecordCache = null;
             return retval;
         }
         
@@ -973,6 +978,8 @@ namespace NPOI.HSSF.Model
         {
             // Style records always follow after 
             //  the ExtendedFormat records
+			if (styleRecordCache != null && styleRecordCache.ContainsKey(xfIndex))
+				return styleRecordCache[xfIndex];
             bool done = false;
             for (int i = records.Xfpos; i < records.Count &&
                     !done; i++)
@@ -986,6 +993,8 @@ namespace NPOI.HSSF.Model
                     StyleRecord sr = (StyleRecord)r;
                     if (sr.XFIndex == xfIndex)
                     {
+						if (styleRecordCache != null)
+							styleRecordCache[xfIndex] = sr;
                         return sr;
                     }
                 }
@@ -994,6 +1003,8 @@ namespace NPOI.HSSF.Model
                     done = true;
                 }
             }
+			if (styleRecordCache != null)
+				styleRecordCache[xfIndex] = null;
             return null;
         }
         /**
